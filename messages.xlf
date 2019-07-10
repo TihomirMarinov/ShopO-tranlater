@@ -1,0 +1,3270 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="accept" datatype="html">
+        <source>Accept</source>
+        <note priority="1" from="description">Icon title for accept invite</note>
+        <note priority="1" from="meaning">Circle Profile</note>
+      </trans-unit>
+      <trans-unit id="accessDeniedForThisProfile" datatype="html">
+        <source>Access is denied for this Profile.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="accessedDeniedForbiddenResource" datatype="html">
+        <source>Accessed denied - forbidden resource.</source>
+        <note priority="1" from="description">description</note>
+        <note priority="1" from="meaning">error 403</note>
+      </trans-unit>
+      <trans-unit id="accountCreatedSuccessfully" datatype="html">
+        <source>User account is created successfully.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="accountIsNotActivatedYet" datatype="html">
+        <source>Your user account is not activated by ShopO yet.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="accountWithTheSameMailAlreadyExists" datatype="html">
+        <source>User account with the same e-mail address already exists. Please use another e-mail address.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="accountWithTheSamePhoneNumberAlreadyExists" datatype="html">
+        <source>User account with the same phone number already exists. Please use another phone number to create new account.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="activateButton" datatype="html">
+        <source>Activate</source>
+        <note priority="1" from="description">Activate button</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="activateMyUS" datatype="html">
+        <source>Activate</source>
+        <note priority="1" from="description">Activate myUS</note>
+        <note priority="1" from="meaning">US Identity</note>
+      </trans-unit>
+      <trans-unit id="addAccountBtn" datatype="html">
+        <source>Add account</source>
+        <note priority="1" from="description">add account btn</note>
+        <note priority="1" from="meaning">Cashback</note>
+      </trans-unit>
+      <trans-unit id="addAddress" datatype="html">
+        <source>Add address</source>
+        <note priority="1" from="description">Address Form save</note>
+        <note priority="1" from="meaning">US Identity</note>
+      </trans-unit>
+      <trans-unit id="addCashBackAccount" datatype="html">
+        <source>Add merchant account</source>
+        <note priority="1" from="description">Popup Form Title</note>
+        <note priority="1" from="meaning">Cashback</note>
+      </trans-unit>
+      <trans-unit id="addExpense" datatype="html">
+        <source>Add Expense</source>
+        <note priority="1" from="description">add button</note>
+        <note priority="1" from="meaning">additional expenses</note>
+      </trans-unit>
+      <trans-unit id="addInvoice" datatype="html">
+        <source>Add Invoice</source>
+        <note priority="1" from="description">Add new Invoice</note>
+        <note priority="1" from="meaning">Invoices List</note>
+      </trans-unit>
+      <trans-unit id="additionalExpenses" datatype="html">
+        <source>Additional Expenses</source>
+        <note priority="1" from="description">headline</note>
+        <note priority="1" from="meaning">additional expenses</note>
+      </trans-unit>
+      <trans-unit id="addPhoto" datatype="html">
+        <source>Add Photo</source>
+        <note priority="1" from="description">set image</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="addProduct" datatype="html">
+        <source>Add product</source>
+        <note priority="1" from="description">add product button</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="address" datatype="html">
+        <source>Address</source>
+        <note priority="1" from="description">Address label</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="Address1" datatype="html">
+        <source>Address1:</source>
+        <note priority="1" from="description">Address1</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="Address2" datatype="html">
+        <source>Address2:</source>
+        <note priority="1" from="description">Address2</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="addressPage" datatype="html">
+        <source>
+        ShopO LLC<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" />
+        9600 Blue Larkspur Lane, Suite 201<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" />
+        Monterey, CA  93940<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" /><x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />info@shopo.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></source>
+        <note priority="1" from="description">description - address</note>
+        <note priority="1" from="meaning">contacts</note>
+      </trans-unit>
+      <trans-unit id="addressShouldBeShorter" datatype="html">
+        <source>The Address line should be shorter.</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="alertCircleJoinRequestSent" datatype="html">
+        <source>The request was sent.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="alertInvalidImage" datatype="html">
+        <source>Current clipboard contents don't have a valid image.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="alertInvalidPassword" datatype="html">
+        <source>Invalid password.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="alertLoading" datatype="html">
+        <source>Loading...</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="alertPending" datatype="html">
+        <source>Pending...</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="alertRequestAccepted" datatype="html">
+        <source>The request was accepted.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="alertRequestRejected" datatype="html">
+        <source>The request was rejected.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="alertSuccessPasswordChange" datatype="html">
+        <source>Password was changed.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="alertWaitImageUpload" datatype="html">
+        <source>Wait until the image is uploaded and press 'Save' again.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="alertWarningPopupBlocked" datatype="html">
+        <source>You may need to disable Popup blocker in your browser.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="allButton" datatype="html">
+        <source>All</source>
+        <note priority="1" from="description">filter all available offers</note>
+        <note priority="1" from="meaning">offers</note>
+      </trans-unit>
+      <trans-unit id="amountLabel" datatype="html">
+        <source>Amount:</source>
+        <note priority="1" from="description">Transactions Popup Amount label</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="apply" datatype="html">
+        <source>Apply</source>
+      </trans-unit>
+      <trans-unit id="areYouSureYouWantToDeleteSelectedAddress" datatype="html">
+        <source>Are you sure you want to delete selected address?</source>
+        <note priority="1" from="description">US Identity</note>
+      </trans-unit>
+      <trans-unit id="askPasswordTitle" datatype="html">
+        <source>Please enter password of your account</source>
+        <note priority="1" from="description">Popup</note>
+        <note priority="1" from="meaning">Password Hidden Copy</note>
+      </trans-unit>
+      <trans-unit id="automaticallyRateCheckbox" datatype="html">
+        <source>Automatically</source>
+        <note priority="1" from="description">label</note>
+        <note priority="1" from="meaning">Finances Exchange Rates</note>
+      </trans-unit>
+      <trans-unit id="banUserInDev" datatype="html">
+        <source>The function is being developed</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">circle</note>
+      </trans-unit>
+      <trans-unit id="becomeLeader" datatype="html">
+        <source>Become a Circle Leader</source>
+        <note priority="1" from="description">sign up link</note>
+        <note priority="1" from="meaning">login</note>
+      </trans-unit>
+      <trans-unit id="becomeMember" datatype="html">
+        <source>Become a Circle Member</source>
+        <note priority="1" from="description">sign up link</note>
+        <note priority="1" from="meaning">login</note>
+      </trans-unit>
+      <trans-unit id="btnCancel" datatype="html">
+        <source>Cancel</source>
+        <note priority="1" from="description">BtnCancel</note>
+        <note priority="1" from="meaning">send invite by email</note>
+      </trans-unit>
+      <trans-unit id="btnSend" datatype="html">
+        <source>Send</source>
+        <note priority="1" from="description">BtnSend</note>
+        <note priority="1" from="meaning">send invite by email</note>
+      </trans-unit>
+      <trans-unit id="button_clear" datatype="html">
+        <source>Clear</source>
+        <note priority="1" from="description">Clear selected date button</note>
+        <note priority="1" from="meaning">Calendar</note>
+      </trans-unit>
+      <trans-unit id="button_CollapseList" datatype="html">
+        <source>Collapse list</source>
+      </trans-unit>
+      <trans-unit id="button_CreditFunds" datatype="html">
+        <source>Credit funds</source>
+        <note priority="1" from="description">Add Payment button</note>
+        <note priority="1" from="meaning">Balance CM</note>
+      </trans-unit>
+      <trans-unit id="button_ExpandList" datatype="html">
+        <source>Expand list</source>
+      </trans-unit>
+      <trans-unit id="button_GrabLink" datatype="html">
+        <source>Grab</source>
+      </trans-unit>
+      <trans-unit id="button_nextProduct" datatype="html">
+        <source>Next product</source>
+      </trans-unit>
+      <trans-unit id="button_PlaceOrder" datatype="html">
+        <source>Place Order</source>
+        <note priority="1" from="description">Products buy</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="button_previousProduct" datatype="html">
+        <source>Previous product</source>
+      </trans-unit>
+      <trans-unit id="button_UseFunds" datatype="html">
+        <source>Use funds</source>
+        <note priority="1" from="description">Member balance Withdraw</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="buy" datatype="html">
+        <source>BUY</source>
+        <note priority="1" from="description">buy button</note>
+        <note priority="1" from="meaning">product</note>
+      </trans-unit>
+      <trans-unit id="calendarPickerTodayBtn" datatype="html">
+        <source>Today</source>
+        <note priority="1" from="description">Today button</note>
+        <note priority="1" from="meaning">Calendar</note>
+      </trans-unit>
+      <trans-unit id="cancelButton" datatype="html">
+        <source>Cancel</source>
+        <note priority="1" from="description">Cancel button</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="cancelPreview" datatype="html">
+        <source>Cancel preview</source>
+        <note priority="1" from="description">Cancel preview button</note>
+      </trans-unit>
+      <trans-unit id="cardNumber" datatype="html">
+        <source>Card number:</source>
+        <note priority="1" from="description">Card number label</note>
+        <note priority="1" from="meaning">Credit card Popup</note>
+      </trans-unit>
+      <trans-unit id="cardNumber16Digits" datatype="html">
+        <source>Card number must be 16 digits</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">Credit card Popup</note>
+      </trans-unit>
+      <trans-unit id="cashbackAccountsNotFound" datatype="html">
+        <source>The CL does not have merchants' accounts.</source>
+        <note priority="1" from="description">No result</note>
+        <note priority="1" from="meaning">Cashback</note>
+      </trans-unit>
+      <trans-unit id="cashbackDescriptionField" datatype="html">
+        <source>Description:</source>
+        <note priority="1" from="description">Popup </note>
+        <note priority="1" from="meaning">Cashback</note>
+      </trans-unit>
+      <trans-unit id="cashbackGeneralPopupFormError" datatype="html">
+        <source>Incorrect or not entered value</source>
+        <note priority="1" from="description">Popup error</note>
+        <note priority="1" from="meaning">Cashback</note>
+      </trans-unit>
+      <trans-unit id="cashbackLoginLabel" datatype="html">
+        <source>Login:</source>
+        <note priority="1" from="description">Popup Login label</note>
+        <note priority="1" from="meaning">Cashback</note>
+      </trans-unit>
+      <trans-unit id="cashbackPasswordField" datatype="html">
+        <source>Password:</source>
+        <note priority="1" from="description">Popup Password label</note>
+        <note priority="1" from="meaning">Cashback</note>
+      </trans-unit>
+      <trans-unit id="cashbackPopupFormError" datatype="html">
+        <source>Incorrect entered value</source>
+      </trans-unit>
+      <trans-unit id="cashbackTitleLabel" datatype="html">
+        <source>Title:</source>
+        <note priority="1" from="description">Popup Title label</note>
+        <note priority="1" from="meaning">Cashback</note>
+      </trans-unit>
+      <trans-unit id="cashbackWebsiteLabel" datatype="html">
+        <source>Website:</source>
+        <note priority="1" from="description">Popup Website label</note>
+        <note priority="1" from="meaning">Cashback</note>
+      </trans-unit>
+      <trans-unit id="category" datatype="html">
+        <source>Category:</source>
+        <note priority="1" from="description">Categories List</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="categoryLabel" datatype="html">
+        <source>Category</source>
+        <note priority="1" from="description">Category</note>
+        <note priority="1" from="meaning">My Preferences</note>
+      </trans-unit>
+      <trans-unit id="changeStatusToNotPaid" datatype="html">
+        <source>Do you want to change the payment status to “Not Paid”?</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="changeStatusToPaid" datatype="html">
+        <source>Do you want to change the payment status to “Paid”?</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="Chat" datatype="html">
+        <source>Open chat</source>
+        <note priority="1" from="description">header</note>
+      </trans-unit>
+      <trans-unit id="chatStatusClosed" datatype="html">
+        <source>Connection lost.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="chatStatusConnected" datatype="html">
+        <source>Connected successfully.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="chatStatusConnecting" datatype="html">
+        <source>Please wait. Attempt to connect...</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="chatStatusRetrying" datatype="html">
+        <source>Connection lost. Attempt to reconnect...</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-AllConversations" datatype="html">
+        <source>All</source>
+        <note priority="1" from="description">Filter - All conversations</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-chatWith" datatype="html">
+        <source>Chat with <x id="INTERPOLATION" equiv-text="{{ user.fname }}" /><x id="INTERPOLATION_1" equiv-text="{{ user.lname}}" /></source>
+        <note priority="1" from="description">Chat with [first-name] [last-name]</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-CircleConversations" datatype="html">
+        <source>Circle Chat</source>
+        <note priority="1" from="description">Filter - Circle conversations</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-CLsConversations" datatype="html">
+        <source>CLs' Chat</source>
+        <note priority="1" from="description">Filter - Circle Leaders' conversations</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-ContactsTab" datatype="html">
+        <source>Contacts</source>
+        <note priority="1" from="description">Contacts tab</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-Earlier" datatype="html">
+        <source>Earlier</source>
+        <note priority="1" from="description">Conversations from earlier (more than a week)</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-LastTab" datatype="html">
+        <source>Last</source>
+        <note priority="1" from="description">Last tab</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-NoContacts" datatype="html">
+        <source>No contacts found.</source>
+        <note priority="1" from="description">No result</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-NoConversations" datatype="html">
+        <source>No conversations found.</source>
+        <note priority="1" from="description">No result</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-OrderConversations" datatype="html">
+        <source>Order Chats</source>
+        <note priority="1" from="description">Filter - Order Conversations</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-PrivateConversations" datatype="html">
+        <source>Private Chats</source>
+        <note priority="1" from="description">Filter - Private conversations</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-ProfileTypeAdministrator" datatype="html">
+        <source>(Administrator)</source>
+        <note priority="1" from="description">Profile Type</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-ProfileTypeLeader" datatype="html">
+        <source>(Leader)</source>
+        <note priority="1" from="description">Profile Type</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-ProfileTypeMember" datatype="html">
+        <source>(Member)</source>
+        <note priority="1" from="description">Profile Type</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-Titlebar" datatype="html">
+        <source>Chat</source>
+        <note priority="1" from="description">Titlebar</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-Today" datatype="html">
+        <source>Today</source>
+        <note priority="1" from="description">Conversations from today</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chatWindow-Yesterday" datatype="html">
+        <source>Yesterday</source>
+        <note priority="1" from="description">Conversations from yesterday</note>
+        <note priority="1" from="meaning">Chat Window</note>
+      </trans-unit>
+      <trans-unit id="chooseFile" datatype="html">
+        <source>Choose File</source>
+        <note priority="1" from="description">Drop</note>
+        <note priority="1" from="meaning">Image Uploader</note>
+      </trans-unit>
+      <trans-unit id="circleLeader" datatype="html">
+        <source>CL</source>
+        <note priority="1" from="description">circle Leader</note>
+      </trans-unit>
+      <trans-unit id="circleLeaders" datatype="html">
+        <source>Circle Leaders</source>
+        <note priority="1" from="description">cicle</note>
+      </trans-unit>
+      <trans-unit id="CircleLeadersInYourRegion" datatype="html">
+        <source>Circle Leaders in your region</source>
+        <note priority="1" from="description">headline</note>
+        <note priority="1" from="meaning">select user</note>
+      </trans-unit>
+      <trans-unit id="circleMember" datatype="html">
+        <source>Circle Members</source>
+        <note priority="1" from="description">cicle</note>
+      </trans-unit>
+      <trans-unit id="city" datatype="html">
+        <source>City</source>
+        <note priority="1" from="description">City field placeholder</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="City" datatype="html">
+        <source>City:</source>
+        <note priority="1" from="description">City</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="cityLabel" datatype="html">
+        <source>City:</source>
+        <note priority="1" from="meaning">Circle Profile</note>
+      </trans-unit>
+      <trans-unit id="CLactivated" datatype="html">
+        <source>Your account has been successfully activated</source>
+        <note priority="1" from="description">title on final type</note>
+        <note priority="1" from="meaning">confirm auth</note>
+      </trans-unit>
+      <trans-unit id="CLCommentLabel" datatype="html">
+        <source>Comment (CL):</source>
+        <note priority="1" from="description">Transactions Popup comment label</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="CLcreated" datatype="html">
+        <source>Your account has been successfully created</source>
+        <note priority="1" from="description">title on final type</note>
+        <note priority="1" from="meaning">confirm auth</note>
+      </trans-unit>
+      <trans-unit id="clear" datatype="html">
+        <source>Clear</source>
+        <note priority="1" from="description">clear selected members</note>
+        <note priority="1" from="meaning">offers</note>
+      </trans-unit>
+      <trans-unit id="clickOnTheMap" datatype="html">
+        <source>Click on the map to select your location</source>
+      </trans-unit>
+      <trans-unit id="CLNotFound" datatype="html">
+        <source>Circle Leader with provided phone number was not found.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="closeButton" datatype="html">
+        <source>Close</source>
+        <note priority="1" from="description">Close (cancel) button</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="CLSince" datatype="html">
+        <source>CL Since:</source>
+        <note priority="1" from="description">Since when CL is registered</note>
+        <note priority="1" from="meaning">Circle Leader Infobox</note>
+      </trans-unit>
+      <trans-unit id="CLsPhoneNumber" datatype="html">
+        <source>Circle Leader’s Phone Number</source>
+        <note priority="1" from="description">Circle Leader phone field placeholder</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="CLsPhoneNumberIsRequiredField" datatype="html">
+        <source>Circle Leader’s Phone number is required field!</source>
+        <note priority="1" from="description">Circle Leader phone field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="CLsPhoneNumberShouldBeShorter" datatype="html">
+        <source>The Circle Leader’s Phone number should be shorter.</source>
+        <note priority="1" from="description">Circle Leader phone field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="CMactivated" datatype="html">
+        <source>Your account has been successfully activated</source>
+        <note priority="1" from="description">title on final type</note>
+        <note priority="1" from="meaning">confirm auth</note>
+      </trans-unit>
+      <trans-unit id="CMCommentLabel" datatype="html">
+        <source>Comment (CM):</source>
+        <note priority="1" from="description">Transactions Popup comment label</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="CMcreated" datatype="html">
+        <source>Your account has been successfully created</source>
+        <note priority="1" from="description">title on final type</note>
+        <note priority="1" from="meaning">confirm auth</note>
+      </trans-unit>
+      <trans-unit id="CM-label" datatype="html">
+        <source>CM</source>
+        <note priority="1" from="description">circle member</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="cmNotFoundInCircle" datatype="html">
+        <source>You don't have CM in your circle.</source>
+        <note priority="1" from="description">No result</note>
+        <note priority="1" from="meaning">offers</note>
+      </trans-unit>
+      <trans-unit id="CMs-circle-profile" datatype="html">
+        <source>CMs:</source>
+        <note priority="1" from="description">Since date; registered at</note>
+        <note priority="1" from="meaning">Circle Profile</note>
+      </trans-unit>
+      <trans-unit id="CMs-label" datatype="html">
+        <source>CMs</source>
+        <note priority="1" from="description">Circle Members label</note>
+        <note priority="1" from="meaning">order</note>
+      </trans-unit>
+      <trans-unit id="codeFromEmail" datatype="html">
+        <source>Code from email</source>
+        <note priority="1" from="description">email code placeholder</note>
+        <note priority="1" from="meaning">confirm auth</note>
+      </trans-unit>
+      <trans-unit id="codeFromEmailCarefully" datatype="html">
+        <source>Please type the code from E-mail letter carefully in the field.</source>
+        <note priority="1" from="description">email code error</note>
+        <note priority="1" from="meaning">confirm auth</note>
+      </trans-unit>
+      <trans-unit id="codeFromSMS" datatype="html">
+        <source>Code from SMS</source>
+        <note priority="1" from="description">sms code field</note>
+        <note priority="1" from="meaning">forgot password</note>
+      </trans-unit>
+      <trans-unit id="codeWrongOrNotFound" datatype="html">
+        <source>The code is either wrong or not found.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="collapseItems" datatype="html">
+        <source>Collapse</source>
+        <note priority="1" from="description">Collapse items in list</note>
+        <note priority="1" from="meaning">Show products</note>
+      </trans-unit>
+      <trans-unit id="colorLabel" datatype="html">
+        <source>Color:</source>
+        <note priority="1" from="description">Product color label</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="colorRequired" datatype="html">
+        <source>The Color is required!</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">orders form</note>
+      </trans-unit>
+      <trans-unit id="colorShouldBeLess" datatype="html">
+        <source>The color should be less than 20 characters</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">orders form</note>
+      </trans-unit>
+      <trans-unit id="commentLabel" datatype="html">
+        <source>Comment</source>
+        <note priority="1" from="description">Comment field placeholder</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="comments" datatype="html">
+        <source>Comments:</source>
+        <note priority="1" from="description">Comments label</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="commentShouldBeShorter" datatype="html">
+        <source>The Comment should be shorter.</source>
+        <note priority="1" from="description">last name field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="commentsLabel" datatype="html">
+        <source>Comments</source>
+        <note priority="1" from="description">comments about product</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="confirm" datatype="html">
+        <source>Confirm</source>
+        <note priority="1" from="description">confirm submit</note>
+        <note priority="1" from="meaning">confirm auth</note>
+      </trans-unit>
+      <trans-unit id="confirmNewPassword" datatype="html">
+        <source>Confirm new Password</source>
+        <note priority="1" from="description">password confirm field</note>
+        <note priority="1" from="meaning">forgot password</note>
+      </trans-unit>
+      <trans-unit id="confirmPassword" datatype="html">
+        <source>Confirm password</source>
+        <note priority="1" from="description">confirm password field placeholder</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="contact" datatype="html">
+        <source>Contact</source>
+        <note priority="1" from="description">contact with circle leader button</note>
+        <note priority="1" from="meaning">product</note>
+      </trans-unit>
+      <trans-unit id="continueButton" datatype="html">
+        <source>Continue as Member</source>
+        <note priority="1" from="description">Continue button</note>
+        <note priority="1" from="meaning">modal window</note>
+      </trans-unit>
+      <trans-unit id="Copy" datatype="html">
+        <source>Copy offer</source>
+        <note priority="1" from="description">product</note>
+      </trans-unit>
+      <trans-unit id="copyChatMessage" datatype="html">
+        <source>Copy Message</source>
+        <note priority="1" from="description">Context menu options</note>
+        <note priority="1" from="meaning">Conversations</note>
+      </trans-unit>
+      <trans-unit id="copyOffer" datatype="html">
+        <source>Copy offer</source>
+        <note priority="1" from="description">headline</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="copyPasswordButton" datatype="html">
+        <source>Copy</source>
+        <note priority="1" from="description">Show password button</note>
+        <note priority="1" from="meaning">Password Hidden Copy</note>
+      </trans-unit>
+      <trans-unit id="copyright" datatype="html">
+        <source>© 2013 - <x id="INTERPOLATION" equiv-text="{{ currentYear }}" /> ShopO LLC. All rights reserved.</source>
+        <note priority="1" from="description">copyright line</note>
+        <note priority="1" from="meaning">footer landing</note>
+      </trans-unit>
+      <trans-unit id="countryLabel" datatype="html">
+        <source>Country:</source>
+        <note priority="1" from="description">Countries label</note>
+        <note priority="1" from="meaning">cicle</note>
+      </trans-unit>
+      <trans-unit id="courier" datatype="html">
+        <source>Courier:</source>
+        <note priority="1" from="description">shippers</note>
+        <note priority="1" from="meaning">order</note>
+      </trans-unit>
+      <trans-unit id="createNew" datatype="html">
+        <source>Create New</source>
+        <note priority="1" from="description">add new offer</note>
+        <note priority="1" from="meaning">offers</note>
+      </trans-unit>
+      <trans-unit id="createTransactionButton" datatype="html">
+        <source>Notify CL about payment</source>
+        <note priority="1" from="description">create transaction button</note>
+        <note priority="1" from="meaning">modal window</note>
+      </trans-unit>
+      <trans-unit id="creditCard" datatype="html">
+        <source>Credit Card:</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="CreditCardCVV" datatype="html">
+        <source>CVV</source>
+        <note priority="1" from="description">Credit card cvv</note>
+      </trans-unit>
+      <trans-unit id="CreditCardExpired" datatype="html">
+        <source>Exp. Date</source>
+        <note priority="1" from="description">Credit card expired</note>
+      </trans-unit>
+      <trans-unit id="creditCardHoldername" datatype="html">
+        <source>
+            Add credit card for <x id="INTERPOLATION" equiv-text="{{creditCard.holderName}}" /></source>
+        <note priority="1" from="description">Month label</note>
+        <note priority="1" from="meaning">Credit card Popup</note>
+      </trans-unit>
+      <trans-unit id="creditCardNotActivated" datatype="html">
+        <source>Credit card not activated.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="CreditCardNumber" datatype="html">
+        <source>Card Number</source>
+        <note priority="1" from="description">Credit card number</note>
+      </trans-unit>
+      <trans-unit id="creditFunds" datatype="html">
+        <source>Credit funds</source>
+        <note priority="1" from="description">Transactions Popup Heading</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="creditFundsConfirm" datatype="html">
+        <source>Credit funds - Confirm transaction</source>
+        <note priority="1" from="description">Transactions Popup Heading</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="cvv" datatype="html">
+        <source>CVV:</source>
+        <note priority="1" from="description">CVV label</note>
+        <note priority="1" from="meaning">Credit card Popup</note>
+      </trans-unit>
+      <trans-unit id="cvvError" datatype="html">
+        <source>CVV must be 3 digits</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">Credit card Popup</note>
+      </trans-unit>
+      <trans-unit id="date" datatype="html">
+        <source>Date</source>
+        <note priority="1" from="description">Placement date-range label</note>
+        <note priority="1" from="meaning">filter</note>
+      </trans-unit>
+      <trans-unit id="dateOfBirthLabel" datatype="html">
+        <source>Date of birth:</source>
+        <note priority="1" from="description">Date of Birth field</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="dateOfPlacement" datatype="html">
+        <source>Date of Placement</source>
+        <note priority="1" from="description">Placement date-range label</note>
+        <note priority="1" from="meaning">filter</note>
+      </trans-unit>
+      <trans-unit id="dateOfShipment" datatype="html">
+        <source>Date of Shipment</source>
+        <note priority="1" from="description">Shipment date-range label</note>
+        <note priority="1" from="meaning">filter</note>
+      </trans-unit>
+      <trans-unit id="dateReceivedByCourier" datatype="html">
+        <source>Date received by courier:</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="dateReceivedLocally" datatype="html">
+        <source>Date received Locally:</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="decline" datatype="html">
+        <source>Decline</source>
+        <note priority="1" from="description">Icon title for decline invite</note>
+        <note priority="1" from="meaning">Circle Profile</note>
+      </trans-unit>
+      <trans-unit id="deleteCurrentCollage" datatype="html">
+        <source>Are you sure you want to delete your current collage?</source>
+        <note priority="1" from="description">Delete Collage Confirm</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="deleteOrder" datatype="html">
+        <source>Delete order</source>
+        <note priority="1" from="description">Delete order button</note>
+      </trans-unit>
+      <trans-unit id="deletePhoto" datatype="html">
+        <source>Delete</source>
+        <note priority="1" from="description">set image</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="description_paymentDetails" datatype="html">
+        <source>Payment details that will be used by default for the next invoice.</source>
+      </trans-unit>
+      <trans-unit id="descriptionLabel" datatype="html">
+        <source>Description:</source>
+        <note priority="1" from="description">Price Input field</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="discountedShipping" datatype="html">
+        <source>Discounted shipping</source>
+        <note priority="1" from="description">login panel headlines</note>
+        <note priority="1" from="meaning">login</note>
+      </trans-unit>
+      <trans-unit id="discussTogether" datatype="html">
+        <source>Discuss together</source>
+        <note priority="1" from="description">With all</note>
+        <note priority="1" from="meaning">chat</note>
+      </trans-unit>
+      <trans-unit id="discussWithAllBuyers" datatype="html">
+        <source>Discuss with all buyers</source>
+        <note priority="1" from="description">With all buyers</note>
+        <note priority="1" from="meaning">chat</note>
+      </trans-unit>
+      <trans-unit id="discussWithCL" datatype="html">
+        <source>Discuss with CL</source>
+        <note priority="1" from="description">With Circle Leader</note>
+        <note priority="1" from="meaning">chat</note>
+      </trans-unit>
+      <trans-unit id="discussWithCM" datatype="html">
+        <source>Discuss with CM</source>
+        <note priority="1" from="description">chat with Circle Members</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="discussWithLeaders" datatype="html">
+        <source>Discuss with Leaders</source>
+        <note priority="1" from="description">With other Leader</note>
+        <note priority="1" from="meaning">chat</note>
+      </trans-unit>
+      <trans-unit id="discussWithMembers" datatype="html">
+        <source>Discuss with Members</source>
+        <note priority="1" from="description">With members</note>
+        <note priority="1" from="meaning">chat</note>
+      </trans-unit>
+      <trans-unit id="donatedLabel" datatype="html">
+        <source>Donated:</source>
+        <note priority="1" from="description">donated jobcoins</note>
+        <note priority="1" from="meaning">balance</note>
+      </trans-unit>
+      <trans-unit id="doYouWantToRemoveWholeOrder" datatype="html">
+        <source>Do you want to remove whole order?</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="dragAndDrop" datatype="html">
+        <source>Drag and drop</source>
+        <note priority="1" from="description">Drop Zone label</note>
+        <note priority="1" from="meaning">Image Uploader</note>
+      </trans-unit>
+      <trans-unit id="DropZone" datatype="html">
+        <source>Drag image here or click to select image</source>
+        <note priority="1" from="description">Drop Zone label</note>
+        <note priority="1" from="meaning">Image Uploader</note>
+      </trans-unit>
+      <trans-unit id="earnedLabel" datatype="html">
+        <source>Earned:</source>
+        <note priority="1" from="description">earned jobcoins</note>
+        <note priority="1" from="meaning">balance</note>
+      </trans-unit>
+      <trans-unit id="earnJobcoins" datatype="html">
+        <source>Earn more jobcoins</source>
+        <note priority="1" from="description">headline</note>
+        <note priority="1" from="meaning">balance</note>
+      </trans-unit>
+      <trans-unit id="edit" datatype="html">
+        <source>Edit</source>
+        <note priority="1" from="description">Edit Avatar button</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="Edit" datatype="html">
+        <source>Edit offer</source>
+        <note priority="1" from="description">product</note>
+      </trans-unit>
+      <trans-unit id="editAddress" datatype="html">
+        <source>Edit address</source>
+        <note priority="1" from="description">Edit address button</note>
+        <note priority="1" from="meaning">US Identity</note>
+      </trans-unit>
+      <trans-unit id="editCashBackAccount" datatype="html">
+        <source>Edit merchant account</source>
+        <note priority="1" from="description">Popup Form Title</note>
+        <note priority="1" from="meaning">Cashback</note>
+      </trans-unit>
+      <trans-unit id="editOffer" datatype="html">
+        <source>Edit offer</source>
+        <note priority="1" from="description">headline</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="editOrder" datatype="html">
+        <source>Edit order</source>
+        <note priority="1" from="description">Edit order button</note>
+      </trans-unit>
+      <trans-unit id="editProduct" datatype="html">
+        <source>Edit product</source>
+        <note priority="1" from="description">product edit</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="email" datatype="html">
+        <source>Email:</source>
+        <note priority="1" from="description">Email</note>
+        <note priority="1" from="meaning">Circle Profile</note>
+      </trans-unit>
+      <trans-unit id="emailIsNotValidatedYet" datatype="html">
+        <source>Your email address is not validated yet.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="emailLabel" datatype="html">
+        <source>Email</source>
+        <note priority="1" from="description">email field placeholder</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="enterNewPassword" datatype="html">
+        <source>Enter new Password (8 - 64 characters)</source>
+        <note priority="1" from="description">password field</note>
+        <note priority="1" from="meaning">forgot password</note>
+      </trans-unit>
+      <trans-unit id="enterNumberBetween" datatype="html">
+        <source>Enter number between 1 and 99</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="enterPhoneNumber" datatype="html">
+        <source>Enter your phone number.</source>
+        <note priority="1" from="description">title on phone stage</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="enterPhoneNumberAssociated" datatype="html">
+        <source>Enter phone number associated with your ShopO Circles account.</source>
+        <note priority="1" from="description">title on phone stage</note>
+        <note priority="1" from="meaning">forgot password</note>
+      </trans-unit>
+      <trans-unit id="enterShorterText" datatype="html">
+        <source>Please enter shorter text.</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="enterYourMessage" datatype="html">
+        <source>Enter your message</source>
+        <note priority="1" from="description">Enter your message</note>
+      </trans-unit>
+      <trans-unit id="errorAdditionalExpensesHasNotMember" datatype="html">
+        <source>There has not a Member.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="errorAdditionalExpensesMemberIsLeader" datatype="html">
+        <source>The selected member is a Leader.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="errorAdditionalExpensesStatusNotPending" datatype="html">
+        <source>Error on deleting additional expense due to status not pending.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="errorAddress1Latin" datatype="html">
+        <source>Address must be in English</source>
+        <note priority="1" from="description">error address1 characters </note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorAddress1MaxLength25" datatype="html">
+        <source>Address must be 35 characters or less</source>
+        <note priority="1" from="description">error address1 max length</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorAddress1Required" datatype="html">
+        <source>Address is required</source>
+        <note priority="1" from="description">error address1 required</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorAddress2Latin" datatype="html">
+        <source>Address2 must be in English</source>
+        <note priority="1" from="description">error address2 characters </note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorAddress2MaxLength25" datatype="html">
+        <source>Address2 must be 35 characters or less</source>
+        <note priority="1" from="description">error address2 max length</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorAmountInvalid" datatype="html">
+        <source>Invalid amount.</source>
+        <note priority="1" from="description">Transactions Popup error amount</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="errorAmountInvalidRange" datatype="html">
+        <source>Type amount between 0 and 1000000</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="errorAmountRequired" datatype="html">
+        <source>The Amount value is required.</source>
+        <note priority="1" from="description">Transactions Popup error amount</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="errorCityLatin" datatype="html">
+        <source>City must be in English</source>
+        <note priority="1" from="description">error city characters </note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorCityMaxLength25" datatype="html">
+        <source>City must be 20 characters or less</source>
+        <note priority="1" from="description">error city max length</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorCityRequired" datatype="html">
+        <source>City is required</source>
+        <note priority="1" from="description">error city required</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorCountryRequired" datatype="html">
+        <source>Country is required</source>
+        <note priority="1" from="description">error country required</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorFnameLatin" datatype="html">
+        <source>First Name must be in English</source>
+        <note priority="1" from="description">error first name characters </note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorFnameMaxLength25" datatype="html">
+        <source>First Name cannot exceed 15 characters</source>
+        <note priority="1" from="description">error first name max length</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorFnameRequired" datatype="html">
+        <source>First Name is required</source>
+        <note priority="1" from="description">error first name required</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorInvalidOption" datatype="html">
+        <source>Invalid option.</source>
+        <note priority="1" from="description">Transactions Popup error option</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="errorInvalidPhoneNumber" datatype="html">
+        <source>Invalid Phone number.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="errorLnameLatin" datatype="html">
+        <source>Last Name must be in English</source>
+        <note priority="1" from="description">error last name characters </note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorLnameMaxLength25" datatype="html">
+        <source>Last Name cannot exceed 20 characters</source>
+        <note priority="1" from="description">error last name max length</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorLnameRequired" datatype="html">
+        <source>Last Name is required</source>
+        <note priority="1" from="description">error last name required</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorPasswordIncorrectOld" datatype="html">
+        <source>Old password is not correct.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="errorPasswordInsecure" datatype="html">
+        <source>Password is not secure.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="errorPostalCodeLatin" datatype="html">
+        <source>Postal Code cannot contain illegal characters</source>
+        <note priority="1" from="description">error city characters </note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorPostalCodeMaxLength25" datatype="html">
+        <source>Postal Code must be 20 characters or less</source>
+        <note priority="1" from="description">error city max length</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorPostalCodeRequired" datatype="html">
+        <source>Postal Code is required</source>
+        <note priority="1" from="description">error city required</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorProductHasNotMember" datatype="html">
+        <source>Product has not a Member.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="errorProductMemberIsLeader" datatype="html">
+        <source>Product member is Leader.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="errorstateLatin" datatype="html">
+        <source>State or Province must be in English</source>
+        <note priority="1" from="description">error city characters </note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorstateMaxLength25" datatype="html">
+        <source>State or Province cannot be longer than 35 characters</source>
+        <note priority="1" from="description">error city max length</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="errorTokenFailedAuthNeeded" datatype="html">
+        <source>New Authentication needed.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="errorTransactionStatusNotPending" datatype="html">
+        <source>Transaction status not pending.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="errorUserNotFound" datatype="html">
+        <source>User not found.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="errorUserSignedUpCustom" datatype="html">
+        <source>A user with same Phone number already exists.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="exp" datatype="html">
+        <source>Expiration:</source>
+        <note priority="1" from="description">expiration date</note>
+        <note priority="1" from="meaning">product</note>
+      </trans-unit>
+      <trans-unit id="expDate" datatype="html">
+        <source>Expiration Date:</source>
+        <note priority="1" from="description">Date pickup</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="exportLabel" datatype="html">
+        <source>Export</source>
+        <note priority="1" from="description">Export button</note>
+        <note priority="1" from="meaning">order export</note>
+      </trans-unit>
+      <trans-unit id="fa9e9a4c001b95475500ac6fd1eff1107a71e688" datatype="html">
+        <source>{VAR_PLURAL, plural, =1 {character} other {characters} }</source>
+      </trans-unit>
+      <trans-unit id="Favorite" datatype="html">
+        <source>Add to favorite</source>
+        <note priority="1" from="description">product</note>
+      </trans-unit>
+      <trans-unit id="FBshare" datatype="html">
+        <source>Share</source>
+        <note priority="1" from="description">share offer on FB</note>
+        <note priority="1" from="meaning">product</note>
+      </trans-unit>
+      <trans-unit id="fieldRequired" datatype="html">
+        <source>This field is required.</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="fillInTheForm" datatype="html">
+        <source>Fill in the form to finish the registration process</source>
+        <note priority="1" from="description">headline</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="financesMemberColumnAmount" datatype="html">
+        <source>Amount</source>
+        <note priority="1" from="description">Transactions column amount</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="financesMemberColumnCreated" datatype="html">
+        <source>Created</source>
+        <note priority="1" from="description">Transactions column created date</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="financesMemberColumnNumber" datatype="html">
+        <source>#</source>
+        <note priority="1" from="description">Transactions column number</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="financesMemberColumnProcessed" datatype="html">
+        <source>Processed</source>
+        <note priority="1" from="description">Transactions column processed date</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="findOutMore" datatype="html">
+        <source>Find out more</source>
+        <note priority="1" from="description">See more link</note>
+        <note priority="1" from="meaning">header index</note>
+      </trans-unit>
+      <trans-unit id="firstName" datatype="html">
+        <source>First name</source>
+        <note priority="1" from="description">first name field placeholder</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="FirstName" datatype="html">
+        <source>First Name:</source>
+        <note priority="1" from="description">First Name</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="firstNameIsRequired" datatype="html">
+        <source>The First name is required.</source>
+        <note priority="1" from="description">first name field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="firstNameLabel" datatype="html">
+        <source>First Name:</source>
+        <note priority="1" from="description">First name label</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="firstNameShouldBeShorter" datatype="html">
+        <source>The First name should be shorter.</source>
+        <note priority="1" from="description">first name field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="footer-academy" datatype="html">
+        <source>ACADEMY</source>
+        <note priority="1" from="description">Academy item</note>
+        <note priority="1" from="meaning">footer landing menu</note>
+      </trans-unit>
+      <trans-unit id="footer-address" datatype="html">
+        <source>ADDRESS</source>
+        <note priority="1" from="description">Address item</note>
+        <note priority="1" from="meaning">footer landing menu</note>
+      </trans-unit>
+      <trans-unit id="footer-contacts" datatype="html">
+        <source>Contact us</source>
+        <note priority="1" from="description">Footer menu</note>
+      </trans-unit>
+      <trans-unit id="footer-home" datatype="html">
+        <source>HOME</source>
+        <note priority="1" from="description">Home item</note>
+        <note priority="1" from="meaning">footer landing menu</note>
+      </trans-unit>
+      <trans-unit id="footer-leaders" datatype="html">
+        <source>LEADERS</source>
+        <note priority="1" from="description">Leaders item</note>
+        <note priority="1" from="meaning">footer landing menu</note>
+      </trans-unit>
+      <trans-unit id="footer-mall" datatype="html">
+        <source>STORES</source>
+        <note priority="1" from="description">Mall item</note>
+        <note priority="1" from="meaning">footer landing menu</note>
+      </trans-unit>
+      <trans-unit id="footer-privacyPolicy" datatype="html">
+        <source>Privacy Policy</source>
+        <note priority="1" from="description">Footer menu</note>
+      </trans-unit>
+      <trans-unit id="footer-termsAndConditions" datatype="html">
+        <source>Terms and Conditions</source>
+        <note priority="1" from="description">Footer menu</note>
+      </trans-unit>
+      <trans-unit id="forgotPassword" datatype="html">
+        <source>Forgot password?</source>
+        <note priority="1" from="description">forgot password link</note>
+        <note priority="1" from="meaning">login</note>
+      </trans-unit>
+      <trans-unit id="from" datatype="html">
+        <source>From:</source>
+        <note priority="1" from="description">Date range From field</note>
+        <note priority="1" from="meaning">filter</note>
+      </trans-unit>
+      <trans-unit id="getCVV" datatype="html">
+        <source>GET CVV</source>
+        <note priority="1" from="description">Get CVV</note>
+        <note priority="1" from="meaning">US Identity</note>
+      </trans-unit>
+      <trans-unit id="goBack" datatype="html">
+        <source>Back</source>
+        <note priority="1" from="description">Back to conversations button</note>
+      </trans-unit>
+      <trans-unit id="grabUrlIncorrectLink" datatype="html">
+        <source>Incorrect link.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="grabUrlMerchantNotSupported" datatype="html">
+        <source>Merchant not supported.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="grabUrlPageNotFound" datatype="html">
+        <source>Product not found.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="header-circle" datatype="html">
+        <source>Circle</source>
+        <note priority="1" from="description">profile menu</note>
+        <note priority="1" from="meaning">header</note>
+      </trans-unit>
+      <trans-unit id="header-circleOf" datatype="html">
+        <source>of <x id="INTERPOLATION" equiv-text="{{leader?.fname}}" /><x id="INTERPOLATION_1" equiv-text="{{leader?.lname}}" /></source>
+        <note priority="1" from="description">Circle of First-name Last-name</note>
+        <note priority="1" from="meaning">header landing</note>
+      </trans-unit>
+      <trans-unit id="header-finances" datatype="html">
+        <source>Finances</source>
+        <note priority="1" from="description">profile menu</note>
+        <note priority="1" from="meaning">header</note>
+      </trans-unit>
+      <trans-unit id="header-joinCircle" datatype="html">
+        <source>Join <x id="INTERPOLATION" equiv-text="{{leader?.fname}}" />’s Circle</source>
+        <note priority="1" from="description">Join to user's Circle button</note>
+        <note priority="1" from="meaning">header landing</note>
+      </trans-unit>
+      <trans-unit id="header-joinShopoCircles" datatype="html">
+        <source>Join ShopO Circles</source>
+        <note priority="1" from="description">Join summary Circle button</note>
+        <note priority="1" from="meaning">header landing</note>
+      </trans-unit>
+      <trans-unit id="header-leaders" datatype="html">
+        <source>Circle Leaders in Your Country</source>
+        <note priority="1" from="description">main menu</note>
+        <note priority="1" from="meaning">header</note>
+      </trans-unit>
+      <trans-unit id="header-myPreferences" datatype="html">
+        <source>My Preferences</source>
+        <note priority="1" from="description">profile menu</note>
+        <note priority="1" from="meaning">header</note>
+      </trans-unit>
+      <trans-unit id="header-offers" datatype="html">
+        <source>Offers</source>
+        <note priority="1" from="description">main menu</note>
+        <note priority="1" from="meaning">header</note>
+      </trans-unit>
+      <trans-unit id="header-orders" datatype="html">
+        <source>Orders</source>
+        <note priority="1" from="description">main menu</note>
+        <note priority="1" from="meaning">header</note>
+      </trans-unit>
+      <trans-unit id="header-profile" datatype="html">
+        <source>Profile</source>
+        <note priority="1" from="description">profile menu</note>
+        <note priority="1" from="meaning">header</note>
+      </trans-unit>
+      <trans-unit id="header-recentSummaryOffers" datatype="html">
+        <source>Recent Offers of Circle Leaders</source>
+        <note priority="1" from="description">Summary leaders offers</note>
+        <note priority="1" from="meaning">header landing</note>
+      </trans-unit>
+      <trans-unit id="header-security" datatype="html">
+        <source>Security</source>
+        <note priority="1" from="description">profile menu</note>
+        <note priority="1" from="meaning">header</note>
+      </trans-unit>
+      <trans-unit id="headerSendInviteEmail" datatype="html">
+        <source>Send invitation by email</source>
+        <note priority="1" from="description">Popup header</note>
+        <note priority="1" from="meaning">send invite by email</note>
+      </trans-unit>
+      <trans-unit id="headerSendInvitePhone" datatype="html">
+        <source>Send invitation by pnone</source>
+        <note priority="1" from="description">Popup header</note>
+        <note priority="1" from="meaning">send invite by phone</note>
+      </trans-unit>
+      <trans-unit id="header-signOut" datatype="html">
+        <source>Sign out</source>
+        <note priority="1" from="description">profile menu</note>
+        <note priority="1" from="meaning">header</note>
+      </trans-unit>
+      <trans-unit id="header-text_1" datatype="html">
+        <source>EARN YOUR LIVELIHOOD BY SHOPPING ONLINE FOR OTHERS</source>
+        <note priority="1" from="description">header index</note>
+      </trans-unit>
+      <trans-unit id="header-text_2" datatype="html">
+        <source>
+                    As a ShopO Circle Leader, build your own lucrative business by shopping on the world-wide web for your friends and neighbors.
+                </source>
+        <note priority="1" from="description">header index</note>
+      </trans-unit>
+      <trans-unit id="header-text_3" datatype="html">
+        <source>SHOP WITH A PERSONAL SHOPPER FROM YOUR OWN NEIGHBORHOOD</source>
+        <note priority="1" from="description">header index</note>
+      </trans-unit>
+      <trans-unit id="header-text_4" datatype="html">
+        <source>As a ShopO Circle Member, use your neighborhood Circle Leader to find the best deals available on the web, purchase merchandise for you, and handle all the details of international delivery.</source>
+        <note priority="1" from="description">header index</note>
+      </trans-unit>
+      <trans-unit id="header-text_5" datatype="html">
+        <source>
+                    With an emphasis on social shopping, ShopO Circles unlocks your ability to purchase any merchandise available on the world-wide web.
+                    Join a ShopO Circle - for access to significant savings through merchant deals and group discounts, globally accepted payment methods, reduced shipping costs, and a personal shopping assistant in your own neighborhood.
+                </source>
+        <note priority="1" from="description">header index</note>
+      </trans-unit>
+      <trans-unit id="header-text_6" datatype="html">
+        <source>
+                    Create a ShopO Circle - to build your own business while shopping for your friends and neighbors.
+                </source>
+        <note priority="1" from="description">header index</note>
+      </trans-unit>
+      <trans-unit id="header-userManagement" datatype="html">
+        <source>User Management</source>
+        <note priority="1" from="description">main menu</note>
+        <note priority="1" from="meaning">header</note>
+      </trans-unit>
+      <trans-unit id="header-usIdentity" datatype="html">
+        <source>US Identity</source>
+        <note priority="1" from="description">profile menu</note>
+        <note priority="1" from="meaning">header</note>
+      </trans-unit>
+      <trans-unit id="helpButton" datatype="html">
+        <source>Help</source>
+        <note priority="1" from="description">Help link</note>
+        <note priority="1" from="meaning">header index</note>
+      </trans-unit>
+      <trans-unit id="hideFilter" datatype="html">
+        <source>Hide Filter</source>
+        <note priority="1" from="description">Toggle button</note>
+        <note priority="1" from="meaning">filter</note>
+      </trans-unit>
+      <trans-unit id="hideInfo" datatype="html">
+        <source>Hide info...</source>
+        <note priority="1" from="description">more info - toggle button</note>
+        <note priority="1" from="meaning">product</note>
+      </trans-unit>
+      <trans-unit id="incorrectAuthTokenFormat" datatype="html">
+        <source>Incorrect Format of the Auth Token.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="incorrectExpirationDate" datatype="html">
+        <source>Incorrect expiration date</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">Credit card Popup</note>
+      </trans-unit>
+      <trans-unit id="inputError" datatype="html">
+        <source>Input error.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="invalidCLsPhoneNumber" datatype="html">
+        <source>Invalid Circle Leader’s Phone number.</source>
+        <note priority="1" from="description">Circle Leader phone field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="invalidCredentials" datatype="html">
+        <source>Invalid credentials.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="invalidEmailAddress" datatype="html">
+        <source>Invalid Email address.</source>
+        <note priority="1" from="description">email field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="invalidPhoneNumber" datatype="html">
+        <source>Incorrect format <x id="INTERPOLATION" equiv-text="{{user.phone}}" />.</source>
+        <note priority="1" from="description">phone number field error</note>
+        <note priority="1" from="meaning">forgot password</note>
+      </trans-unit>
+      <trans-unit id="invalidPhoneNumberOrPassword" datatype="html">
+        <source>Invalid phone number or password.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="invalidValue" datatype="html">
+        <source>Invalid value</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="invalidVerificationCode" datatype="html">
+        <source>Verification code is invalid.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="inviteNew" datatype="html">
+        <source>Invite new:</source>
+        <note priority="1" from="description">Invaite new label</note>
+        <note priority="1" from="meaning">cicle</note>
+      </trans-unit>
+      <trans-unit id="InvoiceAdditionalExpenses" datatype="html">
+        <source>Additional Expenses</source>
+        <note priority="1" from="description">expenses list headline</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoiceAvailableBalance" datatype="html">
+        <source>Including CM's Balance</source>
+        <note priority="1" from="description">available balance value</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoiceBuyer" datatype="html">
+        <source>CM:</source>
+        <note priority="1" from="description">buyer</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoiceComission" datatype="html">
+        <source>Comission</source>
+        <note priority="1" from="description">product comission</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoiceCommentTooLong" datatype="html">
+        <source>The comment should be less than 10000 characters</source>
+        <note priority="1" from="description">comment too long</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="invoiceDate" datatype="html">
+        <source>Invoice Date</source>
+        <note priority="1" from="description">Invoice Date</note>
+        <note priority="1" from="meaning">Invoices List</note>
+      </trans-unit>
+      <trans-unit id="InvoiceDiscount" datatype="html">
+        <source>Discount</source>
+        <note priority="1" from="description">product discount</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="invoiceDueDate" datatype="html">
+        <source>Due date</source>
+        <note priority="1" from="description">Due Date</note>
+        <note priority="1" from="meaning">Invoices List</note>
+      </trans-unit>
+      <trans-unit id="InvoiceDueDate:" datatype="html">
+        <source>Due date:</source>
+        <note priority="1" from="description">issued date due</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="invoiceExchangeRateLabel" datatype="html">
+        <source>Exchange rate <x id="INTERPOLATION" equiv-text="{{ invoice?.order_exchange_rate?.currency_from }}" />/<x id="INTERPOLATION_1" equiv-text="{{ invoice?.order_exchange_rate?.currency_to }}" />:</source>
+        <note priority="1" from="description">exchange rate</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoiceExpensesComments" datatype="html">
+        <source>Comments</source>
+        <note priority="1" from="description">expenses comments</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoiceExpenseStatus" datatype="html">
+        <source>Status</source>
+        <note priority="1" from="description">expenses status</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoiceExpensesTitle" datatype="html">
+        <source>Title</source>
+        <note priority="1" from="description">expenses name</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoiceFormDate" datatype="html">
+        <source>Invoice date:</source>
+        <note priority="1" from="description">date issued</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="invoiceID" datatype="html">
+        <source>Invoice ID:</source>
+        <note priority="1" from="description">Transactions Invoice ID</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="InvoiceInvalidDate" datatype="html">
+        <source>Select a valid date of expiration</source>
+        <note priority="1" from="description">invalid date</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="invoiceMember" datatype="html">
+        <source>CM</source>
+        <note priority="1" from="description">Circle Member</note>
+        <note priority="1" from="meaning">Invoices List</note>
+      </trans-unit>
+      <trans-unit id="InvoiceNewOrder" datatype="html">
+        <source>New Invoice</source>
+        <note priority="1" from="description">Order number</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="invoiceOrderID" datatype="html">
+        <source>Order</source>
+        <note priority="1" from="description">Order ID</note>
+        <note priority="1" from="meaning">Invoices List</note>
+      </trans-unit>
+      <trans-unit id="InvoiceOrderNumber" datatype="html">
+        <source>Invoice</source>
+        <note priority="1" from="description">Order number</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoicePaid" datatype="html">
+        <source>Paid</source>
+        <note priority="1" from="description">summary paid value</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoicePaymentDetails" datatype="html">
+        <source>Payment Details</source>
+        <note priority="1" from="description">payment details</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoicePrice" datatype="html">
+        <source>Price</source>
+        <note priority="1" from="description">product price</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="invoiceProductColorLabel" datatype="html">
+        <source>Color:</source>
+        <note priority="1" from="description">product color</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoiceProductName" datatype="html">
+        <source>Product</source>
+        <note priority="1" from="description">product product name</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="invoiceProductSizeLabel" datatype="html">
+        <source>Size:</source>
+        <note priority="1" from="description">product size</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoiceProductsList" datatype="html">
+        <source>Products’ list</source>
+        <note priority="1" from="description">products list headline</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoiceQuantity" datatype="html">
+        <source>Qty</source>
+        <note priority="1" from="description">product quantity</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoicesList" datatype="html">
+        <source>Invoices</source>
+        <note priority="1" from="description">Invoice Headline</note>
+        <note priority="1" from="meaning">Invoices List</note>
+      </trans-unit>
+      <trans-unit id="InvoiceStatus" datatype="html">
+        <source>Status</source>
+        <note priority="1" from="description">product product status</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoiceSubtotal" datatype="html">
+        <source>Subtotal</source>
+        <note priority="1" from="description">summary subtotal value</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoiceSummaryProducts" datatype="html">
+        <source>Products</source>
+        <note priority="1" from="description">summary products value</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="invoiceTotalAmount" datatype="html">
+        <source>Total</source>
+        <note priority="1" from="description">Total Amount</note>
+        <note priority="1" from="meaning">Invoices List</note>
+      </trans-unit>
+      <trans-unit id="InvoiceTotalAmount" datatype="html">
+        <source>Total amount</source>
+        <note priority="1" from="description">product total amount</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoiceTotalsOrder" datatype="html">
+        <source>Order’s total</source>
+        <note priority="1" from="description">total for payment</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="InvoiceUseAvailableBalance" datatype="html">
+        <source>Including CM's Balance</source>
+        <note priority="1" from="description">use available balance value</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="jobCoinsBalanceLabel" datatype="html">
+        <source>JobCoins Balance:</source>
+        <note priority="1" from="description">jobcoins total</note>
+        <note priority="1" from="meaning">balance</note>
+      </trans-unit>
+      <trans-unit id="jobCoinsReward" datatype="html">
+        <source>JobCoins reward:</source>
+        <note priority="1" from="description">product</note>
+      </trans-unit>
+      <trans-unit id="join" datatype="html">
+        <source>Join</source>
+        <note priority="1" from="description">join to user</note>
+        <note priority="1" from="meaning">select user</note>
+      </trans-unit>
+      <trans-unit id="joinRequestAlreadySent" datatype="html">
+        <source>Join request has been already sent.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="label_ActionsWithSelectedExpenses:" datatype="html">
+        <source>Actions with selected additional expenses:</source>
+      </trans-unit>
+      <trans-unit id="label_ActionsWithSelectedProducts:" datatype="html">
+        <source>Actions with selected products:</source>
+      </trans-unit>
+      <trans-unit id="label_Balance" datatype="html">
+        <source>Balance:</source>
+        <note priority="1" from="description">Balance</note>
+        <note priority="1" from="meaning">Circle Profile</note>
+      </trans-unit>
+      <trans-unit id="label_CL" datatype="html">
+        <source>CL</source>
+      </trans-unit>
+      <trans-unit id="label_CM" datatype="html">
+        <source>CM</source>
+      </trans-unit>
+      <trans-unit id="label_CMs" datatype="html">
+        <source>CM's</source>
+      </trans-unit>
+      <trans-unit id="label_CMs:" datatype="html">
+        <source>CMs:</source>
+        <note priority="1" from="description">CMs count</note>
+        <note priority="1" from="meaning">Circle Profile</note>
+      </trans-unit>
+      <trans-unit id="label_Commission" datatype="html">
+        <source>Commission</source>
+        <note priority="1" from="description">Commission label</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="label_Commission(%):" datatype="html">
+        <source>Commission (%):</source>
+        <note priority="1" from="description">Commission Input field</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="label_ConfirmNewPassword" datatype="html">
+        <source>Confirm new password:</source>
+        <note priority="1" from="description">First name label</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="label_Created:" datatype="html">
+        <source>Created:</source>
+        <note priority="1" from="description">Transactions Popup status label</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="label_Date" datatype="html">
+        <source>Date</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="label_DefaultExchangeRate:" datatype="html">
+        <source>Default exchange rate:</source>
+      </trans-unit>
+      <trans-unit id="label_Discount" datatype="html">
+        <source>Discount</source>
+        <note priority="1" from="description">Discount label</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="label_Discount(%):" datatype="html">
+        <source>Discount (%):</source>
+        <note priority="1" from="description">Discount Input field</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="label_Email" datatype="html">
+        <source>Email</source>
+      </trans-unit>
+      <trans-unit id="label_Email:" datatype="html">
+        <source>Email:</source>
+        <note priority="1" from="description">Email label</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="label_FinalPrice:" datatype="html">
+        <source>Final price:</source>
+        <note priority="1" from="description">Final price label</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="label_ID" datatype="html">
+        <source>ID</source>
+        <note priority="1" from="description">Invoice ID</note>
+        <note priority="1" from="meaning">Invoices List</note>
+      </trans-unit>
+      <trans-unit id="label_Invoice" datatype="html">
+        <source>Invoice</source>
+      </trans-unit>
+      <trans-unit id="label_ItemDetail" datatype="html">
+        <source>Item details</source>
+        <note priority="1" from="description">product details</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="label_Landing" datatype="html">
+        <source>Landing</source>
+      </trans-unit>
+      <trans-unit id="label_Login" datatype="html">
+        <source>Login</source>
+        <note priority="1" from="description">Cashback account</note>
+      </trans-unit>
+      <trans-unit id="label_Merchant" datatype="html">
+        <source>Merchant</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="label_MerchantPrice" datatype="html">
+        <source>Merchant Price</source>
+        <note priority="1" from="description">Price label</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="label_MyDefaultCommission" datatype="html">
+        <source>My default commission (%)</source>
+        <note priority="1" from="description">Commission label</note>
+        <note priority="1" from="meaning">Finances My Commission</note>
+      </trans-unit>
+      <trans-unit id="label_NewPassword" datatype="html">
+        <source>New password:</source>
+        <note priority="1" from="description">First name label</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="label_NumberOfOrders" datatype="html">
+        <source>Number of Orders</source>
+      </trans-unit>
+      <trans-unit id="label_OldPassword" datatype="html">
+        <source>Old password:</source>
+        <note priority="1" from="description">First name label</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="label_OrderID" datatype="html">
+        <source>Order ID</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="label_Password" datatype="html">
+        <source>Password</source>
+        <note priority="1" from="description">Cashback account</note>
+      </trans-unit>
+      <trans-unit id="label_PaymentForOrder:" datatype="html">
+        <source>Payment for the order:</source>
+        <note priority="1" from="description">Order number</note>
+        <note priority="1" from="meaning">invoice</note>
+      </trans-unit>
+      <trans-unit id="label_Phone" datatype="html">
+        <source>Phone</source>
+      </trans-unit>
+      <trans-unit id="label_PriceInStore:" datatype="html">
+        <source>Price in store:</source>
+      </trans-unit>
+      <trans-unit id="label_Prices" datatype="html">
+        <source>Prices</source>
+        <note priority="1" from="description">product details</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="label_Products" datatype="html">
+        <source>Products</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="label_ProductsTotalPrice" datatype="html">
+        <source>(Products' total price - <x id="INTERPOLATION" equiv-text="{{productsTotal}}" />)</source>
+        <note priority="1" from="description">products headline</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="label_ProductTitle:" datatype="html">
+        <source>Product title:</source>
+        <note priority="1" from="description">Title Input field</note>
+        <note priority="1" from="meaning">orders form</note>
+      </trans-unit>
+      <trans-unit id="label_Rate" datatype="html">
+        <source>Rate</source>
+      </trans-unit>
+      <trans-unit id="label_Search" datatype="html">
+        <source>Search</source>
+      </trans-unit>
+      <trans-unit id="label_SelectedCity:" datatype="html">
+        <source>Selected city:</source>
+      </trans-unit>
+      <trans-unit id="label_ShopOEmail" datatype="html">
+        <source>ShopO Email</source>
+      </trans-unit>
+      <trans-unit id="label_Status" datatype="html">
+        <source>Status</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="label_Total" datatype="html">
+        <source>Total</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="label_Total()" datatype="html">
+        <source>Total (<x id="INTERPOLATION" equiv-text="{{ totalCurrency }}" />)</source>
+        <note priority="1" from="description">Total Input field</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="label_Total:" datatype="html">
+        <source>Total:</source>
+        <note priority="1" from="description">Total (quantity) label</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="label_TotalBalance" datatype="html">
+        <source>Total Balance:</source>
+        <note priority="1" from="description">total balance</note>
+        <note priority="1" from="meaning">circle</note>
+</trans-unit>
+      <trans-unit id="label_TransactionDate:" datatype="html">
+        <source>Transaction Date:</source>
+        <note priority="1" from="description">Transactions Popup transaction date label</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="label_YourAdditionalAddress" datatype="html">
+        <source>Your additional address <x id="INTERPOLATION" equiv-text="{{ num + 1 }}" /></source>
+        <note priority="1" from="description">Custom shipping address #</note>
+        <note priority="1" from="meaning">US Identity</note>
+      </trans-unit>
+      <trans-unit id="label_YourNumberIs" datatype="html">
+        <source>Your number is <x id="INTERPOLATION" equiv-text="{{user.phone}}" /></source>
+      </trans-unit>
+      <trans-unit id="labelEmail" datatype="html">
+        <source>Email:</source>
+        <note priority="1" from="description">Email label</note>
+        <note priority="1" from="meaning">send invite by email</note>
+      </trans-unit>
+      <trans-unit id="labelMessage" datatype="html">
+        <source>Message:</source>
+        <note priority="1" from="description">Message label</note>
+        <note priority="1" from="meaning">send invite by email</note>
+      </trans-unit>
+      <trans-unit id="labelPhone" datatype="html">
+        <source>Phone number:</source>
+        <note priority="1" from="description">Email label</note>
+        <note priority="1" from="meaning">send invite by phone</note>
+      </trans-unit>
+      <trans-unit id="landingInfo1" datatype="html">
+        <source>Build a business you can be proud of, providing a service that your friends and neighbors will love.</source>
+        <note priority="1" from="description">CL #1</note>
+        <note priority="1" from="meaning">landing</note>
+      </trans-unit>
+      <trans-unit id="landingInfo2" datatype="html">
+        <source>Enjoy the benefits of being your own boss, working the hours you want, and deciding exactly how much you will earn.</source>
+        <note priority="1" from="description">CL #2</note>
+        <note priority="1" from="meaning">landing</note>
+      </trans-unit>
+      <trans-unit id="landingInfo3" datatype="html">
+        <source>Get Fast Start™ training from the ShopO Academy™, providing you with in-depth, expert training to maximize your earnings.</source>
+        <note priority="1" from="description">CL #3</note>
+        <note priority="1" from="meaning">landing</note>
+      </trans-unit>
+      <trans-unit id="landingInfo4" datatype="html">
+        <source>Receive quality merchandise from anywhere in the world.</source>
+        <note priority="1" from="description">CM #1</note>
+        <note priority="1" from="meaning">landing</note>
+      </trans-unit>
+      <trans-unit id="landingInfo5" datatype="html">
+        <source>Achieve significant savings through merchant deals and group discounts available only to ShopO Circle Members.</source>
+        <note priority="1" from="description">CM #2</note>
+        <note priority="1" from="meaning">landing</note>
+      </trans-unit>
+      <trans-unit id="landingInfo6" datatype="html">
+        <source>Access the global shopping services provided by your neighborhood Circle Leader, including personalized product searches, usage of widely accepted ShopO payment methods, and reduced shipping costs via consolidation.</source>
+        <note priority="1" from="description">CM #3</note>
+        <note priority="1" from="meaning">landing</note>
+      </trans-unit>
+      <trans-unit id="lastName" datatype="html">
+        <source>Last name</source>
+        <note priority="1" from="description">last name field placeholder</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="LastName" datatype="html">
+        <source>Last Name:</source>
+        <note priority="1" from="description">Last Name</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="lastNameIsRequired" datatype="html">
+        <source>The Last name is required.</source>
+        <note priority="1" from="description">last name field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="lastNameLabel" datatype="html">
+        <source>Last Name:</source>
+        <note priority="1" from="description">Last name label</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="lastNameShouldBeShorter" datatype="html">
+        <source>The Last name should be shorter.</source>
+        <note priority="1" from="description">last name field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="leaderColumnHeadlines" datatype="html">
+        <source>Earn your livelihood by shopping online <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" /> for others</source>
+        <note priority="1" from="description">Leader column headlines</note>
+        <note priority="1" from="meaning">login</note>
+      </trans-unit>
+      <trans-unit id="leadersNotFound" datatype="html">
+        <source>Leaders not found</source>
+        <note priority="1" from="description">circle</note>
+      </trans-unit>
+      <trans-unit id="linkLabel" datatype="html">
+        <source>Link:</source>
+        <note priority="1" from="description">URL address</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="linkRequired" datatype="html">
+        <source>Link is required!</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">orders form</note>
+      </trans-unit>
+      <trans-unit id="linkShouldBeLessThan" datatype="html">
+        <source>The link should be less than 10000 characters</source>
+        <note priority="1" from="description">offers form</note>
+      </trans-unit>
+      <trans-unit id="loading" datatype="html">
+        <source>Loading...</source>
+        <note priority="1" from="description">Loading text</note>
+      </trans-unit>
+      <trans-unit id="loadingPhoto" datatype="html">
+        <source>Loading...</source>
+        <note priority="1" from="description">set image</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="localShipment" datatype="html">
+        <source>Local shipment:</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="location" datatype="html">
+        <source>Location</source>
+        <note priority="1" from="description">Location label</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="LONERactivated" datatype="html">
+        <source>Your account has been successfully activated</source>
+        <note priority="1" from="description">title on final type</note>
+        <note priority="1" from="meaning">confirm auth</note>
+      </trans-unit>
+      <trans-unit id="LONERcreated" datatype="html">
+        <source>Your account has been successfully created</source>
+        <note priority="1" from="description">title on final type</note>
+        <note priority="1" from="meaning">confirm auth</note>
+      </trans-unit>
+      <trans-unit id="mailShouldBeShorter" datatype="html">
+        <source>The Email should be shorter.</source>
+        <note priority="1" from="description">email field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="mailValidated" datatype="html">
+        <source>Thank you. Your e-mail address is validated.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="makeCommentShorter" datatype="html">
+        <source>Please make comment shorter.</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">orders form</note>
+      </trans-unit>
+      <trans-unit id="makeDescriptionShorter" datatype="html">
+        <source>Please make description shorter.</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="member" datatype="html">
+        <source>CM:</source>
+        <note priority="1" from="description">Transactions Popup First Name</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="memberColumnHeadlines" datatype="html">
+        <source>Shop with a personal shopper from <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" /> your own neighborhood</source>
+        <note priority="1" from="description">Member column headlines</note>
+        <note priority="1" from="meaning">login</note>
+      </trans-unit>
+      <trans-unit id="membersCount" datatype="html">
+        <source>Members:</source>
+        <note priority="1" from="description">Members count</note>
+        <note priority="1" from="meaning">Circle Leader Infobox</note>
+      </trans-unit>
+      <trans-unit id="membersField" datatype="html">
+        <source>Members</source>
+        <note priority="1" from="description">Members label</note>
+        <note priority="1" from="meaning">filter</note>
+      </trans-unit>
+      <trans-unit id="membersNotFound" datatype="html">
+        <source>Members not found</source>
+        <note priority="1" from="description">circle</note>
+      </trans-unit>
+      <trans-unit id="menu_Balance" datatype="html">
+        <source>Balance</source>
+      </trans-unit>
+      <trans-unit id="menu_CashbackAccounts" datatype="html">
+        <source>Merchants' Accounts</source>
+      </trans-unit>
+      <trans-unit id="menu_CreditCard" datatype="html">
+        <source>Credit Card</source>
+      </trans-unit>
+      <trans-unit id="menu_ExchangeRates" datatype="html">
+        <source>Exchange rates</source>
+      </trans-unit>
+      <trans-unit id="menu_Invoices" datatype="html">
+        <source>Invoices</source>
+      </trans-unit>
+      <trans-unit id="menu_MembersBalances" datatype="html">
+        <source>Transactions</source>
+      </trans-unit>
+      <trans-unit id="menu_MyCommission" datatype="html">
+        <source>My commission</source>
+      </trans-unit>
+      <trans-unit id="menu_PaymentDetails" datatype="html">
+        <source>Payment Details</source>
+      </trans-unit>
+      <trans-unit id="menu_Profile" datatype="html">
+        <source>Profile</source>
+      </trans-unit>
+      <trans-unit id="menu_USAddresses" datatype="html">
+        <source>US Addresses</source>
+      </trans-unit>
+      <trans-unit id="merchandise" datatype="html">
+        <source>Merchandise</source>
+        <note priority="1" from="description">products headline</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="merchantFieldIsRequired" datatype="html">
+        <source>Merchant field is required!</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="merchantLabel" datatype="html">
+        <source>Merchant:</source>
+        <note priority="1" from="description">Merchant List</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="merchantOrderID" datatype="html">
+        <source>Merchant Order ID:</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="message_orderContainInvoices" datatype="html">
+        <source>Orders that contain invoices can not be deleted.</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="message_orderContainPaidItems" datatype="html">
+        <source>Orders with included products or additional expenses that were paid for can not be deleted.</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="messageCVVCodeSend" datatype="html">
+        <source>CVV code was sent to your phone number.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="messageRequired" datatype="html">
+        <source>Message is required!</source>
+        <note priority="1" from="description">error message required</note>
+        <note priority="1" from="meaning">send invite by email</note>
+      </trans-unit>
+      <trans-unit id="messageShouldBeLessThan" datatype="html">
+        <source>The message should be less than 1000 characters</source>
+        <note priority="1" from="description">error message shorter</note>
+        <note priority="1" from="meaning">send invite by email</note>
+      </trans-unit>
+      <trans-unit id="millionsOfProducts" datatype="html">
+        <source>Millions of products</source>
+        <note priority="1" from="description">login panel headlines</note>
+        <note priority="1" from="meaning">login</note>
+      </trans-unit>
+      <trans-unit id="month" datatype="html">
+        <source>Month:</source>
+        <note priority="1" from="description">Month label</note>
+        <note priority="1" from="meaning">Credit card Popup</note>
+      </trans-unit>
+      <trans-unit id="moreInfo" datatype="html">
+        <source>More info...</source>
+        <note priority="1" from="description">more info - toggle button</note>
+        <note priority="1" from="meaning">product</note>
+      </trans-unit>
+      <trans-unit id="myCircle" datatype="html">
+        <source>My Circle</source>
+        <note priority="1" from="description">headline</note>
+        <note priority="1" from="meaning">cicle</note>
+      </trans-unit>
+      <trans-unit id="myJobCoinsBalance" datatype="html">
+        <source>My JobCoins Balance</source>
+        <note priority="1" from="description">headline</note>
+        <note priority="1" from="meaning">balance</note>
+      </trans-unit>
+      <trans-unit id="myUStitle" datatype="html">
+        <source>Activate address</source>
+        <note priority="1" from="description">title</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="myUsUserAlreadyExist" datatype="html">
+        <source>MyUS account is activated already.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="newAddress" datatype="html">
+        <source>Add new address</source>
+        <note priority="1" from="description">Address Form headline</note>
+        <note priority="1" from="meaning">US Identity</note>
+      </trans-unit>
+      <trans-unit id="newOffer" datatype="html">
+        <source>New offer</source>
+        <note priority="1" from="description">headline</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="newOrder" datatype="html">
+        <source>New order</source>
+        <note priority="1" from="description">add new order</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="newTokenGenerated" datatype="html">
+        <source>New token was generated.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="no" datatype="html">
+        <source>No</source>
+        <note priority="1" from="description">No button</note>
+        <note priority="1" from="meaning">modal window</note>
+      </trans-unit>
+      <trans-unit id="noCashbackAccounts" datatype="html">
+        <source>You don't have a merchant account</source>
+        <note priority="1" from="description">MyUS, Cashback accounts</note>
+      </trans-unit>
+      <trans-unit id="notAssignedCMyet" datatype="html">
+        <source>There is no available CM's in this Order yet.</source>
+        <note priority="1" from="description">No CM in order warning</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="note_PriceExcludingShippingCosts" datatype="html">
+        <source>Price excluding shipping costs</source>
+      </trans-unit>
+      <trans-unit id="noValidCitySelected" datatype="html">
+        <source>No valid city selected</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="numberExternalTransactionSystem" datatype="html">
+        <source>Transaction ID:</source>
+        <note priority="1" from="description">Transactions Popup transaction payment number label</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="objectNotFound" datatype="html">
+        <source>Modified object not found.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="offerMessageObject" datatype="html">
+        <source>Offer <x id="INTERPOLATION" equiv-text="{{ messageObjectNum }}" /></source>
+        <note priority="1" from="description">Message object area</note>
+        <note priority="1" from="meaning">Conversations</note>
+      </trans-unit>
+      <trans-unit id="offerNotFound" datatype="html">
+        <source>Offer not found</source>
+        <note priority="1" from="description">offers</note>
+      </trans-unit>
+      <trans-unit id="offerNumber" datatype="html">
+        <source>Offer</source>
+        <note priority="1" from="description">product</note>
+      </trans-unit>
+      <trans-unit id="offersNotFound" datatype="html">
+        <source>Offers not found</source>
+        <note priority="1" from="description">offers</note>
+      </trans-unit>
+      <trans-unit id="offerType" datatype="html">
+        <source>Offer type:</source>
+        <note priority="1" from="description">Types select dropdown</note>
+        <note priority="1" from="meaning">filter</note>
+      </trans-unit>
+      <trans-unit id="ok" datatype="html">
+        <source>OK</source>
+        <note priority="1" from="description">OK button</note>
+        <note priority="1" from="meaning">modal window</note>
+      </trans-unit>
+      <trans-unit id="openAdditionalExpensesChat" datatype="html">
+        <source>Open additional expenses chat</source>
+        <note priority="1" from="description">chat icon</note>
+        <note priority="1" from="meaning">additional expenses</note>
+      </trans-unit>
+      <trans-unit id="openOrderChat" datatype="html">
+        <source>Open order chat</source>
+        <note priority="1" from="description">Open chat button</note>
+      </trans-unit>
+      <trans-unit id="openProductChat" datatype="html">
+        <source>Open product chat</source>
+        <note priority="1" from="description">product chat</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="option_Delete" datatype="html">
+        <source>Delete</source>
+        <note priority="1" from="description">SelectableSection</note>
+      </trans-unit>
+      <trans-unit id="option_MarkAsPaid" datatype="html">
+        <source>Mark as Paid</source>
+        <note priority="1" from="description">SelectableSection</note>
+      </trans-unit>
+      <trans-unit id="option_MoveToAnotherOrder" datatype="html">
+        <source>Move to another order</source>
+        <note priority="1" from="description">SelectableSection</note>
+      </trans-unit>
+      <trans-unit id="optionAll" datatype="html">
+        <source>All</source>
+        <note priority="1" from="description">optionAll</note>
+        <note priority="1" from="meaning">SelectableSection</note>
+      </trans-unit>
+      <trans-unit id="optionNone" datatype="html">
+        <source>Not-specified</source>
+        <note priority="1" from="description">optionAll</note>
+        <note priority="1" from="meaning">SelectableSection</note>
+      </trans-unit>
+      <trans-unit id="order" datatype="html">
+        <source>Order</source>
+        <note priority="1" from="description">Message object area</note>
+        <note priority="1" from="meaning">Conversations</note>
+      </trans-unit>
+      <trans-unit id="orderCannotBeDeleted" datatype="html">
+        <source>Orders in "New" or "Cancelled" status can be deleted. Set "Cancelled" status to be able to delete the order.</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="orderDate" datatype="html">
+        <source>Order Date:</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="orderID" datatype="html">
+        <source>Order ID:</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="orderMessageObject" datatype="html">
+        <source>Order <x id="INTERPOLATION" equiv-text="{{ messageObjectNum }}" /></source>
+        <note priority="1" from="description">Message object area</note>
+        <note priority="1" from="meaning">Conversations</note>
+      </trans-unit>
+      <trans-unit id="orderModifyDenied" datatype="html">
+        <source>Access denied to modify this order.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="orderProductCLCommissionLabel" datatype="html">
+        <source>CL`s commission, %</source>
+        <note priority="1" from="description">product CL commission label</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="orderProductColorLabel" datatype="html">
+        <source>Color</source>
+        <note priority="1" from="description">product color label</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="orderProductDiscountPercent" datatype="html">
+        <source>Discount, %</source>
+        <note priority="1" from="description">product discount percent</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="orderProductFinalPriceCM" datatype="html">
+        <source>Final Price for CM</source>
+        <note priority="1" from="description">final cm price</note>
+        <note priority="1" from="meaning">additional expenses</note>
+      </trans-unit>
+      <trans-unit id="orderProductFinalPriceCM,currency" datatype="html">
+        <source>Final Price for CM, <x id="INTERPOLATION" equiv-text="{{ product.calculation.exchange_rate.currency_to }}" /></source>
+        <note priority="1" from="description">product final price for cm</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="orderProductLinkLabel" datatype="html">
+        <source>Link</source>
+        <note priority="1" from="description">product link label</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="orderProductMerchantPrice" datatype="html">
+        <source>Merchant price, <x id="INTERPOLATION" equiv-text="{{ product.calculation?.merchant_price?.currency }}" /></source>
+        <note priority="1" from="description">product merchant price</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="orderProductPaymentMember" datatype="html">
+        <source>Payment by member</source>
+        <note priority="1" from="description">product payment member label</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="orderProductQuantityLabel" datatype="html">
+        <source>Quantity</source>
+        <note priority="1" from="description">product quantity label</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="orderProductSizeLabel" datatype="html">
+        <source>Size</source>
+        <note priority="1" from="description">product size label</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="orderProductStatusLabel" datatype="html">
+        <source>Status</source>
+        <note priority="1" from="description">product status label</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="orderProductTotalPrice" datatype="html">
+        <source>Total, <x id="INTERPOLATION" equiv-text="{{ product.calculation?.merchant_price?.currency }}" /></source>
+        <note priority="1" from="description">product total price</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="ordersCount" datatype="html">
+        <source>Number of Orders:</source>
+        <note priority="1" from="description">Orders count</note>
+        <note priority="1" from="meaning">Circle Profile</note>
+      </trans-unit>
+      <trans-unit id="orderScreenShot" datatype="html">
+        <source>Order ScreenShot</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="orderSkuLabel" datatype="html">
+        <source>SKU</source>
+        <note priority="1" from="description">product sku label</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="ordersNotFound" datatype="html">
+        <source>Orders not found</source>
+        <note priority="1" from="description">orders</note>
+      </trans-unit>
+      <trans-unit id="orderStatus" datatype="html">
+        <source>Status:</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="ordersValue" datatype="html">
+        <source>Orders Value:</source>
+        <note priority="1" from="description">Orders total value</note>
+        <note priority="1" from="meaning">Circle Profile</note>
+      </trans-unit>
+      <trans-unit id="otherLocalExpenses" datatype="html">
+        <source>Other local expenses:</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="pageDeleted" datatype="html">
+        <source>The page you are looking for could have been deleted or never have existed</source>
+        <note priority="1" from="description">description</note>
+        <note priority="1" from="meaning">error 404</note>
+      </trans-unit>
+      <trans-unit id="pageNotFound" datatype="html">
+        <source>Page Not Found</source>
+        <note priority="1" from="description">title</note>
+        <note priority="1" from="meaning">error 404</note>
+      </trans-unit>
+      <trans-unit id="password" datatype="html">
+        <source>Password</source>
+        <note priority="1" from="description">password field placeholder</note>
+        <note priority="1" from="meaning">login</note>
+      </trans-unit>
+      <trans-unit id="passwordExample" datatype="html">
+        <source>Password (8 - 64 characters)</source>
+        <note priority="1" from="description">password field placeholder</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="passwordIsRequired" datatype="html">
+        <source>Password is required.</source>
+        <note priority="1" from="description">password field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="passwordLowercaseLetter" datatype="html">
+        <source>Password must contain at least 1 lowercase letter.</source>
+        <note priority="1" from="description">password field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="passwordMustBe8SymbolsLength" datatype="html">
+        <source>Password must contain at least 8 characters.</source>
+        <note priority="1" from="description">password field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="passwordMustBeLessSymbolsLength" datatype="html">
+        <source>Password must be less than 64 characters.</source>
+        <note priority="1" from="description">password field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="passwordNumbers" datatype="html">
+        <source>Password must contain at least 1 number.</source>
+        <note priority="1" from="description">password field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="passwordsDoNotMatch" datatype="html">
+        <source>Passwords do not match.</source>
+        <note priority="1" from="description">confirm password field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="passwordSpaces" datatype="html">
+        <source>Password can't contain spaces.</source>
+        <note priority="1" from="description">password field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="passwordStrength" datatype="html">
+        <source>Password must contain from 8 to 64 characters, including:</source>
+        <note priority="1" from="description">Title</note>
+        <note priority="1" from="meaning">Password Strength</note>
+      </trans-unit>
+      <trans-unit id="passwordStrengthLeftCharacters" datatype="html">
+        <source>Must contain at least <x id="INTERPOLATION" equiv-text="{{ left }}" /> more <x id="ICU" equiv-text="{left, plural, =1 {...} other {...}}" />.</source>
+        <note priority="1" from="description">Title</note>
+        <note priority="1" from="meaning">Password Strength</note>
+      </trans-unit>
+      <trans-unit id="passwordStrengthLowercase" datatype="html">
+        <source>lowercase letters</source>
+        <note priority="1" from="description">Title</note>
+        <note priority="1" from="meaning">Password Strength</note>
+      </trans-unit>
+      <trans-unit id="passwordStrengthNumber" datatype="html">
+        <source>numbers</source>
+        <note priority="1" from="description">Title</note>
+        <note priority="1" from="meaning">Password Strength</note>
+      </trans-unit>
+      <trans-unit id="passwordStrengthUppercase" datatype="html">
+        <source>uppercase letters</source>
+        <note priority="1" from="description">Title</note>
+        <note priority="1" from="meaning">Password Strength</note>
+      </trans-unit>
+      <trans-unit id="passwordUppercaseLetter" datatype="html">
+        <source>Password must contain at least 1 uppercase letter.</source>
+        <note priority="1" from="description">password field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="paymentByMember" datatype="html">
+        <source>Payment by member:</source>
+        <note priority="1" from="description">Payment by member</note>
+        <note priority="1" from="meaning">filter order</note>
+      </trans-unit>
+      <trans-unit id="paymentCauseErrorLabel" datatype="html">
+        <source>Cause:</source>
+        <note priority="1" from="description">Transactions Popup cause label</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="paymentPaymentMethodLabel" datatype="html">
+        <source>Payment Method:</source>
+        <note priority="1" from="description">Transactions Popup payment method label</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="paymentStatusLabel" datatype="html">
+        <source>Status:</source>
+        <note priority="1" from="description">Transactions Popup status label</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="pendingInvites" datatype="html">
+        <source>Pending Invites</source>
+        <note priority="1" from="description">pending invite requests link</note>
+        <note priority="1" from="meaning">cicle</note>
+      </trans-unit>
+      <trans-unit id="pendingInvitesNotFound" datatype="html">
+        <source>Pending Invites not found</source>
+        <note priority="1" from="description">circle</note>
+      </trans-unit>
+      <trans-unit id="pendingRequests" datatype="html">
+        <source>Pending Requests</source>
+        <note priority="1" from="description">pending member requests link</note>
+        <note priority="1" from="meaning">cicle</note>
+      </trans-unit>
+      <trans-unit id="pendingRequestsNotFound" datatype="html">
+        <source>Pending Requests not found</source>
+        <note priority="1" from="description">circle</note>
+      </trans-unit>
+      <trans-unit id="phone" datatype="html">
+        <source>Phone:</source>
+        <note priority="1" from="description">Phone</note>
+        <note priority="1" from="meaning">Circle Profile</note>
+      </trans-unit>
+      <trans-unit id="phoneIsNotValidatedYet" datatype="html">
+        <source>Your phone is not validated yet.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="phoneNumberRequired" datatype="html">
+        <source>The Phone number is required.</source>
+        <note priority="1" from="description">phone number field error</note>
+        <note priority="1" from="meaning">forgot password</note>
+      </trans-unit>
+      <trans-unit id="phoneNumberShouldBeShorter" datatype="html">
+        <source>The Phone number should be shorter.</source>
+        <note priority="1" from="description">phone number field error</note>
+        <note priority="1" from="meaning">forgot password</note>
+      </trans-unit>
+      <trans-unit id="phoneNumberValidated" datatype="html">
+        <source>Thank you. Your phone number is validated.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="picture" datatype="html">
+        <source>Picture</source>
+        <note priority="1" from="description">product photo</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="placeholder_Title" datatype="html">
+        <source>Title</source>
+      </trans-unit>
+      <trans-unit id="pleaseEnterActivationCodeMail" datatype="html">
+        <source>Now please enter activation code that you received via e-mail.</source>
+        <note priority="1" from="description">title on email type</note>
+        <note priority="1" from="meaning">confirm auth</note>
+      </trans-unit>
+      <trans-unit id="pleaseEnterShorterColorValue" datatype="html">
+        <source>Please enter shorter color value</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="pleaseEnterShorterComment" datatype="html">
+        <source>Please enter shorter comment</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="pleaseEnterShorterSizeValue" datatype="html">
+        <source>Please enter shorter size value</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="pleaseEnterShorterSkuValue" datatype="html">
+        <source>Please enter shorter SKU value</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="pleaseEnterYourActivationCodeSMS" datatype="html">
+        <source>Please enter your activation code that you received via SMS message.</source>
+        <note priority="1" from="description">title on phone type</note>
+        <note priority="1" from="meaning">confirm auth</note>
+      </trans-unit>
+      <trans-unit id="pleaseTypeOnlyNumbers" datatype="html">
+        <source>Please type only numbers</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="PostalCode" datatype="html">
+        <source>Postal Code:</source>
+        <note priority="1" from="description">Postal Code</note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="pressToPaste" datatype="html">
+        <source>Press "Ctrl+V"<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" />to paste the image from clipboard</source>
+        <note priority="1" from="description">Drop Zone label</note>
+        <note priority="1" from="meaning">Image Uploader</note>
+      </trans-unit>
+      <trans-unit id="PressToPasteImage" datatype="html">
+        <source>Press "Ctrl+V"<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" />to paste image from clipboard</source>
+        <note priority="1" from="description">Drop Zone label</note>
+        <note priority="1" from="meaning">Image Uploader</note>
+      </trans-unit>
+      <trans-unit id="price_note" datatype="html">
+        <source>Price does not include expenses for shipping</source>
+        <note priority="1" from="description">Price note</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="priceIsRequired" datatype="html">
+        <source>Price is required!</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="priceUSDLabel" datatype="html">
+        <source>Price (<x id="INTERPOLATION" equiv-text="{{ priceCurrency }}" />):</source>
+        <note priority="1" from="description">Price Input field</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="productLabel" datatype="html">
+        <source>Product:</source>
+        <note priority="1" from="description">Product checkbox</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="productsNotFound" datatype="html">
+        <source>The order doesn't have any products yet.</source>
+        <note priority="1" from="description">Products not found</note>
+        <note priority="1" from="meaning">Products popup</note>
+      </trans-unit>
+      <trans-unit id="productStatus" datatype="html">
+        <source>Status:</source>
+        <note priority="1" from="description">Status label</note>
+        <note priority="1" from="meaning">Filter Order</note>
+      </trans-unit>
+      <trans-unit id="productSuccessfullyAdded" datatype="html">
+        <source>Product successfully added.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="profileUpdatedMessage" datatype="html">
+        <source>You've been accepted to the Circle</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="quantityIsRequired" datatype="html">
+        <source>Quantity is required!</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">orders form</note>
+      </trans-unit>
+      <trans-unit id="quantityLabel" datatype="html">
+        <source>Quantity:</source>
+        <note priority="1" from="description">Quantity label</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="quoteChatMessage" datatype="html">
+        <source>Quote Message</source>
+        <note priority="1" from="description">Context menu options</note>
+        <note priority="1" from="meaning">Conversations</note>
+      </trans-unit>
+      <trans-unit id="remove" datatype="html">
+        <source>Remove</source>
+        <note priority="1" from="description">Remove Avatar button</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="removeAdditionalExpenses" datatype="html">
+        <source>Remove additional expenses</source>
+        <note priority="1" from="description">delete icon</note>
+        <note priority="1" from="meaning">additional expenses</note>
+      </trans-unit>
+      <trans-unit id="removeProduct" datatype="html">
+        <source>Remove product</source>
+        <note priority="1" from="description">product delete</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="reportsTest" datatype="html">
+        <source>Reports Test</source>
+        <note priority="1" from="description">headline</note>
+        <note priority="1" from="meaning">reports</note>
+      </trans-unit>
+      <trans-unit id="requestsNotFound" datatype="html">
+        <source>Requests not found</source>
+        <note priority="1" from="description">circle</note>
+      </trans-unit>
+      <trans-unit id="resend" datatype="html">
+        <source>Resend</source>
+        <note priority="1" from="description">resend code submit</note>
+        <note priority="1" from="meaning">forgot password</note>
+      </trans-unit>
+      <trans-unit id="resultNotFound" datatype="html">
+        <source>No result found.</source>
+        <note priority="1" from="description">CM not found</note>
+        <note priority="1" from="meaning">modal window</note>
+      </trans-unit>
+      <trans-unit id="rewardsJobCoins" datatype="html">
+        <source>Rewards (JobCoins):</source>
+        <note priority="1" from="description">Rewards (JobCoins) input field</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="saveButton" datatype="html">
+        <source>Save</source>
+        <note priority="1" from="description">Save offer button</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="saveChanges" datatype="html">
+        <source>Save changes</source>
+        <note priority="1" from="description">submit button</note>
+        <note priority="1" from="meaning">forgot password</note>
+      </trans-unit>
+      <trans-unit id="savedOffersButton" datatype="html">
+        <source>Saved Offers</source>
+        <note priority="1" from="description">filter saved-only offers</note>
+        <note priority="1" from="meaning">offers</note>
+      </trans-unit>
+      <trans-unit id="selectAll" datatype="html">
+        <source>Select all</source>
+        <note priority="1" from="description">select all members</note>
+        <note priority="1" from="meaning">offers</note>
+      </trans-unit>
+      <trans-unit id="SelectAreaToPlant" datatype="html">
+        <source>Select an area to plant</source>
+        <note priority="1" from="description">Headline</note>
+        <note priority="1" from="meaning">Image Uploader</note>
+      </trans-unit>
+      <trans-unit id="selectExpirationDate" datatype="html">
+        <source>Select a date of expiration</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="selectFutureDate" datatype="html">
+        <source>Select a date in the future</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="selectMember" datatype="html">
+        <source>Select a member</source>
+        <note priority="1" from="description">product select circle member</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="selectPastDate" datatype="html">
+        <source>Select a date in the past</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="selectValidCity" datatype="html">
+        <source>Please select a valid city.</source>
+        <note priority="1" from="description">confirm city field error</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="send" datatype="html">
+        <source>Send</source>
+        <note priority="1" from="description">send offer to circle members</note>
+        <note priority="1" from="meaning">offers</note>
+      </trans-unit>
+      <trans-unit id="sendRequest" datatype="html">
+        <source>Send Request</source>
+        <note priority="1" from="description">submit button</note>
+        <note priority="1" from="meaning">forgot password</note>
+      </trans-unit>
+      <trans-unit id="SendToCLs" datatype="html">
+        <source>Send to CLs</source>
+        <note priority="1" from="description">send offer to leaders button</note>
+        <note priority="1" from="meaning">product</note>
+      </trans-unit>
+      <trans-unit id="SendToCMs" datatype="html">
+        <source>Send to CMs</source>
+        <note priority="1" from="description">send offer to circle members button</note>
+        <note priority="1" from="meaning">product</note>
+      </trans-unit>
+      <trans-unit id="sendToLandingPage" datatype="html">
+        <source>Send to landing page</source>
+        <note priority="1" from="description">send offer to leader landing page</note>
+        <note priority="1" from="meaning">offers</note>
+      </trans-unit>
+      <trans-unit id="serverError" datatype="html">
+        <source>Server Error.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="setDefault" datatype="html">
+        <source>Set Default</source>
+        <note priority="1" from="description">Reset selected date button</note>
+        <note priority="1" from="meaning">Calendar</note>
+      </trans-unit>
+      <trans-unit id="shorterCauseError" datatype="html">
+        <source>Please enter shorter cause.</source>
+        <note priority="1" from="description">Transactions Popup error</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="showComment" datatype="html">
+        <source>Show Comment</source>
+        <note priority="1" from="description">Icon title for comment</note>
+        <note priority="1" from="meaning">Circle Profile</note>
+      </trans-unit>
+      <trans-unit id="showFilter" datatype="html">
+        <source>Show Filter</source>
+        <note priority="1" from="description">Toggle button</note>
+        <note priority="1" from="meaning">filter</note>
+      </trans-unit>
+      <trans-unit id="showListItems" datatype="html">
+        <source>List</source>
+        <note priority="1" from="description">Fold items in list</note>
+        <note priority="1" from="meaning">Show products</note>
+      </trans-unit>
+      <trans-unit id="showPasswordButton" datatype="html">
+        <source>Show</source>
+        <note priority="1" from="description">Show password button</note>
+        <note priority="1" from="meaning">Password Hidden Copy</note>
+      </trans-unit>
+      <trans-unit id="signIn" datatype="html">
+        <source>Sign In</source>
+        <note priority="1" from="description">login link</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="signInText" datatype="html">
+        <source>
+            ShopO provides a systematic way to enable any person in the world access to purchase goods they want or need from any merchants on the planet.
+        </source>
+        <note priority="1" from="description">headlines</note>
+        <note priority="1" from="meaning">login</note>
+      </trans-unit>
+      <trans-unit id="signUp" datatype="html">
+        <source>Sign Up</source>
+        <note priority="1" from="description">submit button</note>
+        <note priority="1" from="meaning">singup</note>
+      </trans-unit>
+      <trans-unit id="since" datatype="html">
+        <source>Since:</source>
+        <note priority="1" from="description">Since date; registered at</note>
+        <note priority="1" from="meaning">Circle Profile</note>
+      </trans-unit>
+      <trans-unit id="sizeIsRequired" datatype="html">
+        <source>Size is required!</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">orders form</note>
+      </trans-unit>
+      <trans-unit id="sizeLabel" datatype="html">
+        <source>Size:</source>
+        <note priority="1" from="description">Product size label</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="sizeShouldBeLess" datatype="html">
+        <source>The size should be less than 20 characters</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">orders form</note>
+      </trans-unit>
+      <trans-unit id="skuLabel" datatype="html">
+        <source>SKU:</source>
+        <note priority="1" from="description">Product sku label</note>
+        <note priority="1" from="meaning">Purchase Request Popup</note>
+      </trans-unit>
+      <trans-unit id="smsCodeIsRequired" datatype="html">
+        <source>SMS code is required.</source>
+        <note priority="1" from="description">token field error</note>
+        <note priority="1" from="meaning">forgot password</note>
+      </trans-unit>
+      <trans-unit id="someTechnicalProblems" datatype="html">
+        <source>Sorry, we had some technical problems during you last operation.</source>
+        <note priority="1" from="description">description</note>
+        <note priority="1" from="meaning">error 500</note>
+      </trans-unit>
+      <trans-unit id="spentLabel" datatype="html">
+        <source>Spent:</source>
+        <note priority="1" from="description">spent jobcoins</note>
+        <note priority="1" from="meaning">balance</note>
+      </trans-unit>
+      <trans-unit id="startChat" datatype="html">
+        <source>Start Chat</source>
+        <note priority="1" from="description">Icon title for starting chat with user</note>
+        <note priority="1" from="meaning">Circle Profile</note>
+      </trans-unit>
+      <trans-unit id="state" datatype="html">
+        <source>State or Province:</source>
+        <note priority="1" from="description">State or Province </note>
+        <note priority="1" from="meaning">Activate My US address</note>
+      </trans-unit>
+      <trans-unit id="status" datatype="html">
+        <source>Status</source>
+        <note priority="1" from="description">Transactions column status</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="statusOfPayment" datatype="html">
+        <source>Status of Payment to merchant:</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="subtitleLabel" datatype="html">
+        <source>Subtitle:</source>
+        <note priority="1" from="description">Subtitle Input field</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="successfullyAdded" datatype="html">
+        <source>Successfully added</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="successfullyCreated" datatype="html">
+        <source>Successfully created.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="successfullyDeleted" datatype="html">
+        <source>Successfully deleted.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="successfullyEdited" datatype="html">
+        <source>Successfully edited.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="successfullyUpdated" datatype="html">
+        <source>Successfully updated.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="taxes" datatype="html">
+        <source>Taxes:</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="text_ExchangeRatesHeading" datatype="html">
+        <source>You can change the exchange rate or use the exchange rate set by ShopoCircles. The exchange rate is needed to convert merchandise’s price to prices in national currency.</source>
+        <note priority="1" from="description">Heading label</note>
+        <note priority="1" from="meaning">Finances Exchange Rates</note>
+      </trans-unit>
+      <trans-unit id="text_MyCommissionHeading" datatype="html">
+        <source>You can change the amount of your default commission. The value you’ve chosen would be set as default for the following orders and new offers. It is possible to change your commission while creating or editing the offer. You are also able to set the speciﬁc amount of commission for each separate product in the order.</source>
+        <note priority="1" from="description">Commission label</note>
+        <note priority="1" from="meaning">Finances My Commission</note>
+      </trans-unit>
+      <trans-unit id="text_YouAreJoinTo" datatype="html">
+        <source>You are going to join to the Circle of</source>
+      </trans-unit>
+      <trans-unit id="text_YouDontHaveInvoices" datatype="html">
+        <source>There are no invoices</source>
+        <note priority="1" from="description">No invoices</note>
+        <note priority="1" from="meaning">Invoices List</note>
+      </trans-unit>
+      <trans-unit id="text_YouDontHaveTransactions" datatype="html">
+        <source>There are no transactions</source>
+        <note priority="1" from="description">transactions</note>
+      </trans-unit>
+      <trans-unit id="title_ChangePassword" datatype="html">
+        <source>Change password</source>
+      </trans-unit>
+      <trans-unit id="title_Congratulations" datatype="html">
+        <source>Congratulations!</source>
+      </trans-unit>
+      <trans-unit id="title_CreditCardNotCreated" datatype="html">
+        <source>
+        Credit card for this user has not been created yet
+        <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />Please fill the form below to provide credit card for the user<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+      </trans-unit>
+      <trans-unit id="title_EditCreditCard" datatype="html">
+        <source>
+        Edit credit card data
+    </source>
+      </trans-unit>
+      <trans-unit id="title_MoveProductsToAnotherOrder" datatype="html">
+        <source>Move products to another order</source>
+      </trans-unit>
+      <trans-unit id="title_YourCustomAddresses" datatype="html">
+        <source>Your Custom Addresses</source>
+      </trans-unit>
+      <trans-unit id="titleBanUser" datatype="html">
+        <source>Ban user</source>
+        <note priority="1" from="description">Icon title for ban user</note>
+        <note priority="1" from="meaning">Circle Profile</note>
+      </trans-unit>
+      <trans-unit id="titleIsRequired" datatype="html">
+        <source>Title is required!</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="titleLabel" datatype="html">
+        <source>Title:</source>
+        <note priority="1" from="description">Title Input field</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="titleOfferAdmin" datatype="html">
+        <source>The offer was created by administrator</source>
+      </trans-unit>
+      <trans-unit id="titleOfferAuto" datatype="html">
+        <source>The offer was created automatically</source>
+      </trans-unit>
+      <trans-unit id="titleOfferSent" datatype="html">
+        <source>The offer has already been sent</source>
+      </trans-unit>
+      <trans-unit id="titleShouldBeLess" datatype="html">
+        <source>The title should be less than 30 characters</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="titleShouldBeLess20" datatype="html">
+        <source>The title should be less than 20 characters</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">orders form</note>
+      </trans-unit>
+      <trans-unit id="to" datatype="html">
+        <source>To:</source>
+        <note priority="1" from="description">Date range To field</note>
+        <note priority="1" from="meaning">filter</note>
+      </trans-unit>
+      <trans-unit id="totalInternationalShipment" datatype="html">
+        <source>Total international shipment:</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="totalMerchPrice" datatype="html">
+        <source>Total merchandise price:</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="totalOrderPrice" datatype="html">
+        <source>Total Order Price (USD):</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="totalWeight" datatype="html">
+        <source>Total weight (KG):</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="trackingNumber" datatype="html">
+        <source>Tracking Number:</source>
+        <note priority="1" from="description">order</note>
+      </trans-unit>
+      <trans-unit id="transactionsHeading" datatype="html">
+        <source>Transactions</source>
+        <note priority="1" from="description">Transactions heading</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="tryAgainLater" datatype="html">
+        <source>Something goes wrong. Try again later.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="tryToSignIn" datatype="html">
+        <source>Please try now to sign in.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="typeCommissionBetween" datatype="html">
+        <source>Type commission between 0 and 100</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="typeDiscount" datatype="html">
+        <source>Type discount between 0 and 100</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="typeFieldIsRequired" datatype="html">
+        <source>Type field is required!</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="typePriceBetween" datatype="html">
+        <source>Type price between 0 and 9999.99</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="typeQuantityBetween" datatype="html">
+        <source>Type quantity between 1 and 99</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">orders form</note>
+      </trans-unit>
+      <trans-unit id="typeRewardBetween" datatype="html">
+        <source>Type reward between 1 and 10000</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="typesLabel" datatype="html">
+        <source>Types:</source>
+        <note priority="1" from="description">Types List</note>
+        <note priority="1" from="meaning">offers form</note>
+      </trans-unit>
+      <trans-unit id="typeSMSCodeCarefully" datatype="html">
+        <source>Please type SMS code carefully in the field.</source>
+        <note priority="1" from="description">token field error</note>
+        <note priority="1" from="meaning">forgot password</note>
+      </trans-unit>
+      <trans-unit id="unsupportedCountryOnAuth" datatype="html">
+        <source>Thank you for joining ShopO Community. We plan to start business in your country shortly. We will notify you about this right away.</source>
+        <note priority="1" from="description">Unsupported country</note>
+        <note priority="1" from="meaning">auth</note>
+      </trans-unit>
+      <trans-unit id="uploadFile" datatype="html">
+        <source>Upload image from your computer</source>
+        <note priority="1" from="description">Headline</note>
+        <note priority="1" from="meaning">Image Uploader</note>
+      </trans-unit>
+      <trans-unit id="uploadImage" datatype="html">
+        <source>Upload image</source>
+        <note priority="1" from="description">Upload image button</note>
+      </trans-unit>
+      <trans-unit id="use" datatype="html">
+        <source>Use</source>
+        <note priority="1" from="description">use button</note>
+        <note priority="1" from="meaning">modal window</note>
+      </trans-unit>
+      <trans-unit id="useFunds" datatype="html">
+        <source>Use funds</source>
+        <note priority="1" from="description">Transactions Popup Heading</note>
+        <note priority="1" from="meaning">Finances</note>
+      </trans-unit>
+      <trans-unit id="userAlreadyActivated" datatype="html">
+        <source>The User is already activated. Please re-login.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="userPassword" datatype="html">
+        <source>Password:</source>
+        <note priority="1" from="description">Password</note>
+        <note priority="1" from="meaning">Password Hidden Copy</note>
+      </trans-unit>
+      <trans-unit id="userWithThisPhoneNumberNotFound-EnterAnother" datatype="html">
+        <source>We are sorry. We are not able to find user with this phone number. Please try to enter another phone number.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="verificationCodeSentToMail" datatype="html">
+        <source>We sent verification code to your E-mail address.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="verificationCodeSentViaSMS" datatype="html">
+        <source>We sent verification code via SMS to your phone number.</source>
+        <note priority="1" from="description">message</note>
+        <note priority="1" from="meaning">alert</note>
+      </trans-unit>
+      <trans-unit id="verificationCodeSMSenterCodeHere" datatype="html">
+        <source>We sent verification code via SMS to phone number <x id="INTERPOLATION" equiv-text="{{ user.phone }}" />. Please enter that code here after you receive it.</source>
+        <note priority="1" from="description">title on sms code stage</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="verify" datatype="html">
+        <source>Verify</source>
+        <note priority="1" from="description">submit SMS button</note>
+        <note priority="1" from="meaning">forgot password</note>
+      </trans-unit>
+      <trans-unit id="verifyPhone" datatype="html">
+        <source>Verify Phone</source>
+        <note priority="1" from="description">submit button</note>
+        <note priority="1" from="meaning">signup</note>
+      </trans-unit>
+      <trans-unit id="viaEmail" datatype="html">
+        <source>via E-mail</source>
+        <note priority="1" from="description">invite button</note>
+        <note priority="1" from="meaning">circle</note>
+      </trans-unit>
+      <trans-unit id="viaFacebook" datatype="html">
+        <source>via Facebook</source>
+        <note priority="1" from="description">invite button</note>
+        <note priority="1" from="meaning">circle</note>
+      </trans-unit>
+      <trans-unit id="viaPhoneNumber" datatype="html">
+        <source>via Phone number</source>
+        <note priority="1" from="description">invite button</note>
+        <note priority="1" from="meaning">circle</note>
+      </trans-unit>
+      <trans-unit id="viewOffer" datatype="html">
+        <source>View offer</source>
+        <note priority="1" from="description">view offer button</note>
+        <note priority="1" from="meaning">balance</note>
+      </trans-unit>
+      <trans-unit id="viewOrder" datatype="html">
+        <source>See order</source>
+        <note priority="1" from="description">Order button</note>
+      </trans-unit>
+      <trans-unit id="wantToDeleteThisCashbackAccount" datatype="html">
+        <source>Are you sure you want to delete this merchant account?</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">cashback accounts</note>
+      </trans-unit>
+      <trans-unit id="wantToDeleteThisMember" datatype="html">
+        <source>Are you sure you want to delete this Member?</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">circle</note>
+      </trans-unit>
+      <trans-unit id="wantToRemoveThisOffers" datatype="html">
+        <source>Are you sure you want to remove this Offers?</source>
+        <note priority="1" from="description">question</note>
+        <note priority="1" from="meaning">modal window</note>
+      </trans-unit>
+      <trans-unit id="whyBeCL" datatype="html">
+        <source>WHY BE A CIRCLE LEADER?</source>
+        <note priority="1" from="description">landing</note>
+      </trans-unit>
+      <trans-unit id="whyBeCM" datatype="html">
+        <source>WHY BE A CIRCLE MEMBER?</source>
+        <note priority="1" from="description">landing</note>
+      </trans-unit>
+      <trans-unit id="willAskForPassword" datatype="html">
+        <source>We will ask for this password whenever you sign in.</source>
+        <note priority="1" from="description">title on password stage</note>
+        <note priority="1" from="meaning">forgot password</note>
+      </trans-unit>
+      <trans-unit id="withdrawReturnThisProductOrExpense" datatype="html">
+        <source>Do you want to refund <x id="INTERPOLATION" equiv-text="{{ paidBalance | price }}" /> to the CM’s balance?</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="withdrawThisProductOrExpense" datatype="html">
+        <source>Withdraw <x id="INTERPOLATION" equiv-text="{{ paidBalance | price }}" /> from CM’s balance</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="withdrawThisProductOrExpenseCM" datatype="html">
+        <source>Withdraw <x id="INTERPOLATION" equiv-text="{{ item.price | price }}" /> from <x id="INTERPOLATION_1" equiv-text="{{ (item?.member?.fname || '') + ' ' + (item?.member?.lname || '') }}" /> balance</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="workingConditions" datatype="html">
+        <source>Working conditions</source>
+      </trans-unit>
+      <trans-unit id="workingConditionsShouldBeShorter" datatype="html">
+        <source>The Working conditions text should be shorter.</source>
+        <note priority="1" from="description">error</note>
+        <note priority="1" from="meaning">Profile</note>
+      </trans-unit>
+      <trans-unit id="worldwideDelivery" datatype="html">
+        <source>Worldwide delivery</source>
+        <note priority="1" from="description">login panel headlines</note>
+        <note priority="1" from="meaning">login</note>
+      </trans-unit>
+      <trans-unit id="year" datatype="html">
+        <source>Year:</source>
+        <note priority="1" from="description">Year label</note>
+        <note priority="1" from="meaning">Credit card Popup</note>
+      </trans-unit>
+      <trans-unit id="yes" datatype="html">
+        <source>Yes</source>
+        <note priority="1" from="description">yes button</note>
+        <note priority="1" from="meaning">modal window</note>
+      </trans-unit>
+      <trans-unit id="yourShopoBillingAddressIs" datatype="html">
+        <source>Your ShopO billing address is</source>
+        <note priority="1" from="description">Billing address label</note>
+        <note priority="1" from="meaning">US Identity</note>
+      </trans-unit>
+      <trans-unit id="yourShopoEmailAddressIs" datatype="html">
+        <source>Your ShopO email address is</source>
+        <note priority="1" from="description">Email label</note>
+        <note priority="1" from="meaning">US Identity</note>
+      </trans-unit>
+      <trans-unit id="yourShopoShippingAddressIs" datatype="html">
+        <source>Your ShopO shipping address is</source>
+        <note priority="1" from="description">Shipping label</note>
+        <note priority="1" from="meaning">US Identity</note>
+      </trans-unit>
+      <trans-unit id="yourShopoUSShippingAddress" datatype="html">
+        <source>Your ShopO U.S. shipping address</source>
+        <note priority="1" from="description">Shipping label</note>
+        <note priority="1" from="meaning">US Identity</note>
+      </trans-unit>
+      <trans-unit id="yourShopoWebsiteAddressIs" datatype="html">
+        <source>Your ShopO website address is</source>
+        <note priority="1" from="description">Website label</note>
+        <note priority="1" from="meaning">US Identity</note>
+      </trans-unit>
+      <trans-unit id="youSureYouWantToDeleteThisExpense" datatype="html">
+        <source>Are you sure you want to delete this Additional Expense?</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="youSureYouWantToDeleteThisOffer" datatype="html">
+        <source>Are you sure you want to delete this Offer?</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">offers</note>
+      </trans-unit>
+      <trans-unit id="youSureYouWantToDeleteThisOrder" datatype="html">
+        <source>Are you sure you want to delete this Order?</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="youSureYouWantToDeleteThisProduct" datatype="html">
+        <source>Are you sure you want to delete this Product?</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+      <trans-unit id="youSureYouWantToJoinOnCircle" datatype="html">
+        <source>Are you sure you want to join this Circle?</source>
+        <note priority="1" from="description">confirm action</note>
+        <note priority="1" from="meaning">orders</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
