@@ -1,0 +1,22 @@
+@import url('./bootstrap.css');
+
+.container-fluid{
+    width: 100%;
+    padding: 0;
+}
+
+#test{
+    width: 100%;
+    text-align: center;
+    box-shadow: 0px 0px 0px 0px(0,0,0,0);
+}
+
+#test .form{
+    opacity: 1;
+    display: inline-block;
+    width: 100%;
+}
+
+#test .form input{
+    width: 100%;
+}
