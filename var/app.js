@@ -24,3 +24,14 @@ input.addEventListener("change", function() {
     reader.readAsText(file);
   });
 });
+
+var t0 = performance.now()
+var arrTest = [];
+for(var i = 0; i<4000000; i++){
+  arrTest.push(i);
+}
+
+console.log(arrTest[arrTest.length - 1]);
+console.log(arrTest);
+var t1 = performance.now();
+console.log("create arrTest " + (t1-t0) + " ms");
